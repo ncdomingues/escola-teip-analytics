@@ -1,0 +1,29 @@
+# Real student data — NEVER commit. Only data/processed/ (anonymized) is tracked.
+data/raw/
+*.xlsx
+*.xlsm
+*.xls
+*.ods
+id_lookup.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+~$*
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Slide QA artifacts (regenerate with slides/export_charts.py + slides/build_deck.py)
+slides/apresentacao.pdf
+slides/slide-*.png
