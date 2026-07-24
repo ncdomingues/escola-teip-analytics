@@ -1,464 +1,464 @@
-﻿id_aluno,turma,ano_escolaridade,idade,grupo_nacionalidade,nacionalidade,fica_escola,ate,ase,rtp,pei,tem_pc,tem_internet,religiao_moral,autorizacao_saida,tem_condicao_saude,tem_restricao_alimentar,oferta_escola_1,oferta_escola_2,oferta_escola_3
-ALU-0001,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,False,False,Música,Teatro,Cenografia
-ALU-0002,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Música,Cenografia
-ALU-0003,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,True,False,Teatro,Cenografia,Música
-ALU-0004,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,EMRC,D,False,False,Teatro,Música,Cenografia
-ALU-0005,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0006,5.ºA,5,10.0,Estrangeira,Brasileira,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,False,Teatro,Música,Cenografia
-ALU-0007,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,A,False,False,Música,N/A,N/A
-ALU-0008,5.ºA,5,10.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,A,False,True,Música,Teatro,Cenografia
-ALU-0009,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0010,5.ºA,5,10.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,A,True,False,Música,Cenografia,Teatro
-ALU-0011,5.ºA,5,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Sim,Sim,Sim,Nenhuma,A,True,False,Teatro,Música,Cenografia
-ALU-0012,5.ºA,5,6.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,EMRC,A,False,False,Música,Teatro,Cenografia
-ALU-0013,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Não,Sim,Nenhuma,C,True,True,Teatro,Música,Cenografia
-ALU-0014,5.ºA,5,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,EMRC e EMRE,C,True,False,Cenografia,Teatro,Música
-ALU-0015,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Não,Sim,Nenhuma,C,True,False,Teatro,N/A,N/A
-ALU-0016,5.ºA,5,13.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Não,Não,EMRE,A,False,False,Música,Cenografia,Teatro
-ALU-0017,5.ºA,5,10.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0018,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,C,False,False,Teatro,Cenografia,Música
-ALU-0019,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Música,Cenografia,Teatro
-ALU-0020,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Teatro,Música,Cenografia
-ALU-0021,5.ºA,5,10.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,False,False,Cenografia,Música,Teatro
-ALU-0022,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Música,Cenografia
-ALU-0023,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Sim,Não,Sim,Sim,Nenhuma,A,False,False,Teatro,Música,Cenografia
-ALU-0024,5.ºB,5,11.0,Estrangeira,Brasileira,Sim,Não,N/A,Não,Não,Sim,Sim,Nenhuma,C,False,False,Teatro,Música,Cenografia
-ALU-0025,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,A,False,False,Música,Teatro,Cenografia
-ALU-0026,5.ºB,5,10.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,A,False,False,Teatro,Música,Cenografia
-ALU-0027,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Não,Nenhuma,"C, D",False,False,Teatro,Música,Cenografia
-ALU-0028,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Sim,Não,Não,Sim,Nenhuma,A,False,False,Teatro,Cenografia,Música
-ALU-0029,5.ºB,5,10.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,A,True,False,Cenografia,Teatro,Música
-ALU-0030,5.ºB,5,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,EMRE,B,False,False,N/A,N/A,N/A
-ALU-0031,5.ºB,5,11.0,Estrangeira,Brasileira,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,"B, C, D",False,False,Teatro,Música,Cenografia
-ALU-0032,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,True,True,Teatro,Música,Cenografia
-ALU-0033,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Não,Sim,Nenhuma,A,True,False,Cenografia,Teatro,Música
-ALU-0034,5.ºB,5,10.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Não,Nenhuma,A,False,False,Música,Cenografia,Teatro
-ALU-0035,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,A,False,False,Teatro,Música,Cenografia
-ALU-0036,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,A,False,False,Teatro,Cenografia,Música
-ALU-0037,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,True,False,Música,Teatro,Cenografia
-ALU-0038,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,True,False,Teatro,Cenografia,Música
-ALU-0039,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,False,False,Teatro,Cenografia,Música
-ALU-0040,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Sim,Sim,Nenhuma,D,False,False,N/A,N/A,N/A
-ALU-0041,5.ºB,5,11.0,Estrangeira,Outra,Sim,Não,Não,Não,Não,Não,Não,Nenhuma,A,False,False,Teatro,Música,Cenografia
-ALU-0042,5.ºB,5,10.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0043,5.ºC,5,12.0,Estrangeira,Russa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,False,False,Música,Cenografia,Teatro
-ALU-0044,5.ºC,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Música,Cenografia,Teatro
-ALU-0045,5.ºC,5,11.0,Estrangeira,Brasileira,Sim,Sim,Sim,Não,Não,Sim,Sim,Nenhuma,"A, C, D",False,False,Música,Cenografia,Teatro
-ALU-0046,5.ºC,5,11.0,Portuguesa,Portuguesa,Sim,Não,N/A,Não,Não,Não,Sim,Nenhuma,B,False,False,N/A,N/A,N/A
-ALU-0047,5.ºC,5,11.0,Estrangeira,Outra,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,False,False,Música,Teatro,Cenografia
-ALU-0048,5.ºC,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0049,5.ºC,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0050,5.ºC,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,A,False,False,Teatro,Música,Cenografia
-ALU-0051,5.ºC,5,12.0,Portuguesa,Portuguesa,Sim,Sim,Não,Sim,Sim,Sim,Sim,Nenhuma,C,True,False,Música,Teatro,Cenografia
-ALU-0052,5.ºC,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,C,True,False,Música,Cenografia,Teatro
-ALU-0053,5.ºC,5,10.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Música,Cenografia,Teatro
-ALU-0054,5.ºC,5,12.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Sim,Não,Sim,Sim,Nenhuma,D,True,False,Música,Cenografia,Teatro
-ALU-0055,5.ºC,5,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,B,False,False,Música,Teatro,Cenografia
-ALU-0056,5.ºC,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,com o CCR,False,False,Teatro,Cenografia,Música
-ALU-0057,5.ºC,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,A,False,False,Cenografia,Música,Teatro
-ALU-0058,5.ºC,5,10.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,A,False,False,Teatro,Música,Cenografia
-ALU-0059,5.ºC,5,10.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,True,False,Música,Teatro,Cenografia
-ALU-0060,5.ºC,5,10.0,Estrangeira,Outra,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Cenografia,Teatro,Música
-ALU-0061,5.ºC,5,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Não,Sim,Nenhuma,"C, D",False,False,Música,Teatro,Cenografia
-ALU-0062,5.ºC,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Música,Cenografia
-ALU-0063,5.ºC,5,10.0,Estrangeira,Nepalesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,False,False,Música,Teatro,Cenografia
-ALU-0064,5.ºC,5,10.0,Estrangeira,Nepalesa,Sim,Sim,N/A,Não,Não,Sim,Sim,Nenhuma,"A, B, C, D",False,False,Música,Teatro,Cenografia
-ALU-0065,5.ºD,5,10.0,Estrangeira,Nepalesa,Sim,Não,Sim,Sim,Não,Não,Não,EMRC,"B, C, D",False,True,Música,Teatro,Cenografia
-ALU-0066,5.ºD,5,10.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Música,Cenografia
-ALU-0067,5.ºD,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0068,5.ºD,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,"C, D",False,False,Teatro,Cenografia,Música
-ALU-0069,5.ºD,5,11.0,Estrangeira,Nepalesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,C,False,False,Teatro,Música,Cenografia
-ALU-0070,5.ºD,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0071,5.ºD,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,"C, D",True,False,Teatro,Música,Cenografia
-ALU-0072,5.ºD,5,11.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Não,Sim,Nenhuma,C,False,False,Teatro,Cenografia,Música
-ALU-0073,5.ºD,5,14.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Música,Cenografia
-ALU-0074,5.ºD,5,11.0,Estrangeira,Nepalesa,Sim,Não,Sim,Sim,Não,Não,Sim,EMRC e EMRE,D,False,False,Música,N/A,N/A
-ALU-0075,5.ºD,5,10.0,Estrangeira,Russa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,C,False,False,Teatro,Música,Cenografia
-ALU-0076,5.ºD,5,11.0,Portuguesa,Portuguesa,Sim,Não,N/A,Não,Não,Não,Sim,Nenhuma,C,True,False,Música,Teatro,Cenografia
-ALU-0077,5.ºD,5,12.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Sim,Sim,EMRE,B,False,False,Teatro,Música,Cenografia
-ALU-0078,5.ºD,5,,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,A,False,False,Teatro,Música,Cenografia
-ALU-0079,5.ºD,5,10.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,A,True,False,Música,Teatro,Cenografia
-ALU-0080,5.ºD,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,EMRE,"C, D",False,False,Música,Teatro,Cenografia
-ALU-0081,5.ºD,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0082,5.ºD,5,12.0,Estrangeira,Indiana,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,False,False,Teatro,Música,Cenografia
-ALU-0083,5.ºD,5,12.0,Estrangeira,Russa,Não,N/A,Não,Não,Não,Não,Sim,N/A,"C, D",False,False,N/A,N/A,N/A
-ALU-0084,5.ºD,5,11.0,Portuguesa,Portuguesa,Sim,N/A,Não,Não,Não,Sim,Sim,N/A,C,False,False,Teatro,Cenografia,Música
-ALU-0085,5.ºD,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0086,5.ºD,5,11.0,Estrangeira,Nepalesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,"C, D",False,True,Música,Teatro,Cenografia
-ALU-0087,5.ºD,5,12.0,Estrangeira,Nepalesa,Sim,Não,N/A,N/A,N/A,Não,Sim,EMRE,D,False,True,Teatro,Cenografia,Música
-ALU-0088,5.ºD,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,A,False,False,Música,Cenografia,Teatro
-ALU-0089,5.ºE,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,False,False,Teatro,Cenografia,Música
-ALU-0090,5.ºE,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,C,False,False,Teatro,Música,Cenografia
-ALU-0091,5.ºE,5,11.0,Estrangeira,Nepalesa,Sim,Sim,Não,Não,Não,Sim,Sim,EMRC e EMRE,D,False,True,Música,Cenografia,Teatro
-ALU-0092,5.ºE,5,10.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Música,Teatro,Cenografia
-ALU-0093,5.ºE,5,15.0,Estrangeira,Angolana,Sim,Sim,N/A,Não,Não,Não,Sim,EMRE,C,False,False,Música,Teatro,Cenografia
-ALU-0094,5.ºE,5,12.0,Estrangeira,Outra,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,True,Cenografia,Teatro,Música
-ALU-0095,5.ºE,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0096,5.ºE,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,N/A,N/A,N/A
-ALU-0097,5.ºE,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,B,True,False,Cenografia,Teatro,Música
-ALU-0098,5.ºE,5,10.0,Estrangeira,Outra,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Música,Teatro,Cenografia
-ALU-0099,5.ºE,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0100,5.ºE,5,10.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,False,False,Música,Teatro,Cenografia
-ALU-0101,5.ºE,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0102,5.ºE,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0103,5.ºE,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Não,Nenhuma,A,False,False,Teatro,Música,Cenografia
-ALU-0104,5.ºE,5,11.0,Estrangeira,Nepalesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,False,False,Música,Teatro,Cenografia
-ALU-0105,5.ºE,5,12.0,Estrangeira,Nepalesa,Não,Não,N/A,Não,Não,Não,Sim,N/A,N/A,False,True,Música,N/A,N/A
-ALU-0106,5.ºE,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0107,5.ºE,5,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,False,False,Música,Teatro,Cenografia
-ALU-0108,5.ºE,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0109,5.ºF,5,10.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Sim,Não,Sim,Nenhuma,A,True,False,Teatro,Música,Cenografia
-ALU-0110,5.ºF,5,10.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,False,False,Teatro,Cenografia,Música
-ALU-0111,5.ºF,5,10.0,Estrangeira,Nepalesa,Sim,Não,N/A,Não,Não,Não,Não,Nenhuma,B,False,False,Cenografia,Teatro,Música
-ALU-0112,5.ºF,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,C,False,False,Teatro,Música,Cenografia
-ALU-0113,5.ºF,5,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Música,Cenografia,Teatro
-ALU-0114,5.ºF,5,,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,A,False,False,Teatro,Cenografia,Música
-ALU-0115,5.ºF,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0116,5.ºF,5,12.0,Estrangeira,Brasileira,Sim,Não,Sim,Não,Não,Não,Sim,EMRC,D,False,True,Teatro,Cenografia,Música
-ALU-0117,5.ºF,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Sim,Sim,Nenhuma,A,True,False,Cenografia,Teatro,Música
-ALU-0118,5.ºF,5,10.0,Estrangeira,Outra,Sim,Não,Sim,Não,Não,Sim,Sim,EMRE,C,False,False,Música,Teatro,Cenografia
-ALU-0119,5.ºF,5,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Música,Cenografia
-ALU-0120,5.ºF,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0121,5.ºF,5,12.0,Estrangeira,Outra,Sim,Não,Sim,Não,Não,Não,Sim,EMRC,C,False,False,Teatro,Música,Cenografia
-ALU-0122,5.ºF,5,10.0,Estrangeira,Outra,Sim,Não,Não,Não,Não,Não,Sim,EMRC,C,False,False,Música,Teatro,Cenografia
-ALU-0123,5.ºF,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Música,Teatro,Cenografia
-ALU-0124,5.ºF,5,11.0,Estrangeira,Nepalesa,Sim,Não,Não,Sim,Não,Não,Não,Nenhuma,D,False,False,Cenografia,Teatro,Música
-ALU-0125,5.ºF,5,10.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0126,5.ºF,5,11.0,Estrangeira,Cabo-verdiana,Sim,Não,Não,Não,Não,Sim,Sim,EMRC,C,False,False,Teatro,Cenografia,Música
-ALU-0127,5.ºF,5,11.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Não,Sim,EMRE,D,True,False,Música,Cenografia,Teatro
-ALU-0128,5.ºF,5,10.0,Portuguesa,Portuguesa,Sim,Não,N/A,Não,Não,Não,Sim,Nenhuma,A,False,False,Música,Teatro,Cenografia
-ALU-0129,5.ºF,5,11.0,Estrangeira,Nepalesa,Sim,Não,Não,Não,Não,Não,Não,Nenhuma,D,False,False,Música,Cenografia,Teatro
-ALU-0130,6.ºA,6,14.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Sim,Não,Sim,Sim,Nenhuma,D,True,False,Cenografia,Música,Teatro
-ALU-0131,6.ºA,6,11.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0132,6.ºA,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0133,6.ºA,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0134,6.ºA,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0135,6.ºA,6,11.0,Estrangeira,Russa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0136,6.ºA,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Música,Teatro,Cenografia
-ALU-0137,6.ºA,6,16.0,Estrangeira,Outra,Sim,Sim,Sim,Sim,Sim,Não,Sim,EMRC,C,True,False,Música,Teatro,Cenografia
-ALU-0138,6.ºA,6,11.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0139,6.ºA,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0140,6.ºA,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0141,6.ºA,6,12.0,Portuguesa,Portuguesa,Não,Não,Sim,Sim,Sim,Não,Sim,Nenhuma,D,True,True,Teatro,Cenografia,Música
-ALU-0142,6.ºA,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0143,6.ºA,6,11.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0144,6.ºA,6,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,True,Teatro,Música,Cenografia
-ALU-0145,6.ºA,6,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,A,False,False,Teatro,Música,Cenografia
-ALU-0146,6.ºA,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0147,6.ºA,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0148,6.ºA,6,13.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Cenografia,Teatro,Música
-ALU-0149,6.ºB,6,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,C,False,False,Música,Cenografia,Teatro
-ALU-0150,6.ºB,6,9.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0151,6.ºB,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0152,6.ºB,6,12.0,Estrangeira,Brasileira,Sim,Não,Não,Não,Não,Não,Sim,EMRC,C,False,False,Teatro,Cenografia,Música
-ALU-0153,6.ºB,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0154,6.ºB,6,12.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0155,6.ºB,6,11.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0156,6.ºB,6,12.0,Estrangeira,Outra,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0157,6.ºB,6,12.0,Portuguesa,Portuguesa,Sim,Não,Não,Sim,Sim,Não,Sim,Nenhuma,C,False,False,Teatro,Cenografia,Música
-ALU-0158,6.ºB,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0159,6.ºB,6,11.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0160,6.ºB,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0161,6.ºB,6,12.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0162,6.ºB,6,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Não,Sim,Nenhuma,D,True,False,Música,Teatro,Cenografia
-ALU-0163,6.ºB,6,12.0,Estrangeira,Outra,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,"C, D",False,False,Teatro,Música,Cenografia
-ALU-0164,6.ºB,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0165,6.ºB,6,11.0,Estrangeira,Angolana,Sim,Sim,Não,Não,Não,Sim,Sim,EMRC,C,False,False,Música,Teatro,Cenografia
-ALU-0166,6.ºB,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0167,6.ºB,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0168,6.ºC,6,11.0,Estrangeira,Outra,Sim,Sim,Não,Não,Não,Não,Sim,Nenhuma,A,False,False,Música,Teatro,Cenografia
-ALU-0169,6.ºC,6,13.0,Estrangeira,Brasileira,Sim,Não,Sim,Não,Não,Não,Sim,EMRC,D,False,False,Música,Teatro,Cenografia
-ALU-0170,6.ºC,6,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,True,False,Teatro,Cenografia,Música
-ALU-0171,6.ºC,6,11.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0172,6.ºC,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0173,6.ºC,6,12.0,Estrangeira,Outra,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,C,False,False,Música,Cenografia,Teatro
-ALU-0174,6.ºC,6,12.0,Portuguesa,Portuguesa,Sim,Não,N/A,N/A,N/A,Sim,Sim,Nenhuma,"C, D",True,False,N/A,N/A,N/A
-ALU-0175,6.ºC,6,13.0,Estrangeira,Bangladechiana,Sim,Não,N/A,Não,Não,Não,Não,Nenhuma,"A, B, C, D",False,False,N/A,N/A,N/A
-ALU-0176,6.ºC,6,13.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0177,6.ºC,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Sim,Não,Sim,Nenhuma,C,False,False,Teatro,Música,Cenografia
-ALU-0178,6.ºC,6,14.0,Estrangeira,Cabo-verdiana,Sim,Não,Sim,Não,Não,Não,Sim,EMRC,"C, D",False,False,Cenografia,Teatro,Música
-ALU-0179,6.ºC,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0180,6.ºC,6,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Música,Teatro,Cenografia
-ALU-0181,6.ºC,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0182,6.ºC,6,12.0,Estrangeira,Bangladechiana,Sim,Sim,Sim,Não,Não,Não,Não,Nenhuma,D,False,True,Cenografia,N/A,N/A
-ALU-0183,6.ºC,6,11.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0184,6.ºC,6,,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Sim,Não,Sim,Nenhuma,"C, D",True,False,Música,Cenografia,Teatro
-ALU-0185,6.ºC,6,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,N/A,N/A,N/A
-ALU-0186,6.ºC,6,13.0,Estrangeira,Bangladechiana,Sim,Não,Não,Não,Não,Não,Não,Nenhuma,A,False,False,N/A,N/A,N/A
-ALU-0187,6.ºC,6,14.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Sim,Não,Não,Sim,Nenhuma,D,False,False,Música,N/A,N/A
-ALU-0188,6.ºD,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Música,Teatro,Cenografia
-ALU-0189,6.ºD,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,True,False,Teatro,Música,Cenografia
-ALU-0190,6.ºD,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0191,6.ºD,6,13.0,Estrangeira,Brasileira,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,C,False,False,Teatro,Cenografia,Música
-ALU-0192,6.ºD,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0193,6.ºD,6,12.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0194,6.ºD,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0195,6.ºD,6,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,False,Teatro,Cenografia,Música
-ALU-0196,6.ºD,6,12.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Sim,Sim,Não,Sim,Nenhuma,C,False,False,Teatro,Música,Cenografia
-ALU-0197,6.ºD,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0198,6.ºD,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0199,6.ºD,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0200,6.ºD,6,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Não,Nenhuma,D,True,False,Música,Teatro,Cenografia
-ALU-0201,6.ºD,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Música,Teatro,Teatro
-ALU-0202,6.ºD,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0203,6.ºD,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0204,6.ºD,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0205,6.ºD,6,5.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0206,6.ºD,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0207,6.ºD,6,14.0,Estrangeira,Brasileira,Sim,Sim,Sim,Não,Não,Não,Sim,EMRE,D,False,False,Teatro,Cenografia,Música
-ALU-0208,6.ºD,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0209,6.ºD,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0210,6.ºE,6,11.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0211,6.ºE,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0212,6.ºE,6,12.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0213,6.ºE,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0214,6.ºE,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0215,6.ºE,6,11.0,Portuguesa,Portuguesa,Sim,Não,N/A,Não,Não,Sim,Sim,Nenhuma,D,False,False,Música,Teatro,Cenografia
-ALU-0216,6.ºE,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Não,Sim,Nenhuma,"C, D",False,False,Cenografia,Teatro,Música
-ALU-0217,6.ºE,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0218,6.ºE,6,12.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0219,6.ºE,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Música,Cenografia,Teatro
-ALU-0220,6.ºE,6,11.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0221,6.ºE,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0222,6.ºE,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0223,6.ºE,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0224,6.ºE,6,12.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0225,6.ºE,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0226,6.ºE,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Não,Nenhuma,"C, D",False,False,Teatro,Cenografia,Música
-ALU-0227,6.ºE,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0228,6.ºE,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Sim,Sim,Sim,Nenhuma,C,True,False,Música,Cenografia,Música
-ALU-0229,6.ºE,6,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,False,Teatro,Cenografia,Música
-ALU-0230,6.ºE,6,,Estrangeira,Bangladechiana,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Cenografia,Música,Teatro
-ALU-0231,7.ºA,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0232,7.ºA,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0233,7.ºA,7,13.0,Estrangeira,Brasileira,Sim,Não,N/A,Não,Não,Não,Sim,Nenhuma,A,False,False,Teatro,Música,Cenografia
-ALU-0234,7.ºA,7,13.0,Estrangeira,São-tomense,Sim,Não,Sim,Não,Não,Não,Sim,EMRC,C,False,False,Teatro,Cenografia,Música
-ALU-0235,7.ºA,7,12.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,C,False,False,Música,Teatro,Cenografia
-ALU-0236,7.ºA,7,13.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,True,False,Teatro,Cenografia,Música
-ALU-0237,7.ºA,7,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0238,7.ºA,7,13.0,Estrangeira,Brasileira,Sim,N/A,N/A,Não,N/A,Sim,Sim,Nenhuma,D,True,False,Teatro,Cenografia,Música
-ALU-0239,7.ºA,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0240,7.ºA,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,N/A,Sim,Sim,Nenhuma,C,False,False,Teatro,Cenografia,Música
-ALU-0241,7.ºA,7,14.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Sim,Sim,Nenhuma,C,True,False,Música,Teatro,Cenografia
-ALU-0242,7.ºA,7,14.0,Portuguesa,Portuguesa,Sim,N/A,Sim,Não,Não,Não,Sim,Nenhuma,A,False,False,Teatro,Cenografia,Música
-ALU-0243,7.ºA,7,12.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Música,Cenografia
-ALU-0244,7.ºA,7,14.0,Estrangeira,Angolana,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0245,7.ºA,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0246,7.ºA,7,14.0,Estrangeira,Brasileira,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0247,7.ºA,7,12.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0248,7.ºA,7,13.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Sim,Sim,Nenhuma,C,True,False,Música,Teatro,Cenografia
-ALU-0249,7.ºA,7,,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Sim,Sim,Nenhuma,C,False,False,Cenografia,Música,Teatro
-ALU-0250,7.ºA,7,13.0,Portuguesa,Portuguesa,Sim,N/A,Sim,Não,Sim,Sim,Sim,Nenhuma,D,True,False,Teatro,Cenografia,Música
-ALU-0251,7.ºA,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0252,7.ºA,7,12.0,Portuguesa,Portuguesa,Sim,N/A,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0253,7.ºA,7,15.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,A,False,False,Teatro,Cenografia,Música
-ALU-0254,7.ºB,7,14.0,Estrangeira,Outra,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Música,Cenografia,Teatro
-ALU-0255,7.ºB,7,15.0,Estrangeira,Guineense,Sim,Não,Não,Não,Não,Não,Não,Nenhuma,D,True,False,Teatro,Cenografia,Música
-ALU-0256,7.ºB,7,14.0,Estrangeira,Brasileira,Sim,Não,Não,Não,Não,Não,Não,EMRE,D,False,False,Teatro,Cenografia,Música
-ALU-0257,7.ºB,7,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Música,Cenografia
-ALU-0258,7.ºB,7,14.0,Estrangeira,Angolana,Sim,Não,Sim,Não,Não,Sim,Sim,EMRE,C,False,False,Teatro,Cenografia,Música
-ALU-0259,7.ºB,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0260,7.ºB,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Cenografia,Teatro,Música
-ALU-0261,7.ºB,7,16.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Música,Cenografia,Teatro
-ALU-0262,7.ºB,7,14.0,Portuguesa,Portuguesa,Não,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0263,7.ºB,7,16.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,True,Teatro,Cenografia,Música
-ALU-0264,7.ºB,7,13.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,C,False,False,Música,Teatro,Cenografia
-ALU-0265,7.ºB,7,16.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Sim,Sim,Nenhuma,D,False,False,Música,Cenografia,Música
-ALU-0266,7.ºB,7,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Música,Cenografia,Teatro
-ALU-0267,7.ºB,7,12.0,Estrangeira,Nepalesa,Sim,Não,Sim,Não,Não,Não,Não,Nenhuma,D,False,False,Teatro,Música,Música
-ALU-0268,7.ºB,7,,Portuguesa,Portuguesa,Sim,Não,N/A,N/A,Sim,Não,Sim,Nenhuma,D,False,False,Música,Teatro,Cenografia
-ALU-0269,7.ºB,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Música,Teatro,Cenografia
-ALU-0270,7.ºB,7,14.0,Estrangeira,Nepalesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0271,7.ºB,7,14.0,Estrangeira,São-tomense,Sim,Não,Não,Não,Não,Sim,Sim,EMRE,D,False,False,Teatro,Cenografia,Música
-ALU-0272,7.ºB,7,14.0,Estrangeira,Brasileira,Sim,Não,Não,Não,Não,Não,Sim,EMRC,C,False,False,Teatro,Música,Cenografia
-ALU-0273,7.ºB,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Sim,Não,Sim,Nenhuma,A,True,False,Música,Cenografia,Teatro
-ALU-0274,7.ºC,7,14.0,Estrangeira,Nepalesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,C,False,False,Música,Teatro,Cenografia
-ALU-0275,7.ºC,7,12.0,Estrangeira,Outra,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0276,7.ºC,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0277,7.ºC,7,16.0,Estrangeira,Guineense,Sim,Sim,Sim,Sim,Não,Não,Sim,Nenhuma,C,False,False,Música,Teatro,Cenografia
-ALU-0278,7.ºC,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0279,7.ºC,7,13.0,Estrangeira,Brasileira,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Cenografia,Teatro,Música
-ALU-0280,7.ºC,7,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,False,Cenografia,Teatro,Música
-ALU-0281,7.ºC,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,True,False,Teatro,Cenografia,Música
-ALU-0282,7.ºC,7,14.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,C,True,False,Teatro,Cenografia,Música
-ALU-0283,7.ºC,7,13.0,Estrangeira,Brasileira,Sim,Não,Não,Sim,Não,Sim,Sim,Nenhuma,D,False,False,Cenografia,Teatro,Música
-ALU-0284,7.ºC,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Música,Cenografia,Teatro
-ALU-0285,7.ºC,7,13.0,Estrangeira,Outra,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0286,7.ºC,7,13.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Cenografia,Teatro,Música
-ALU-0287,7.ºC,7,13.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Cenografia,Teatro,Música
-ALU-0288,7.ºC,7,13.0,Estrangeira,Russa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0289,7.ºC,7,13.0,Estrangeira,Nepalesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,True,Música,Teatro,Cenografia
-ALU-0290,7.ºC,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Sim,Sim,Nenhuma,D,True,False,Teatro,Cenografia,Música
-ALU-0291,7.ºC,7,13.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Cenografia,Teatro,Música
-ALU-0292,7.ºC,7,,Estrangeira,Bangladechiana,Sim,Não,Sim,Não,Não,Não,Não,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0293,7.ºC,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0294,7.ºC,7,16.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Não,Sim,Nenhuma,D,True,False,Cenografia,Teatro,Música
-ALU-0295,7.ºD,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0296,7.ºD,7,14.0,Estrangeira,Indiana,Sim,Sim,Sim,Não,Não,Não,Não,EMRE,N/A,False,False,Música,Teatro,Cenografia
-ALU-0297,7.ºD,7,15.0,Portuguesa,Portuguesa,Sim,Não,N/A,Não,N/A,Não,Sim,Nenhuma,B,False,False,Teatro,Música,Cenografia
-ALU-0298,7.ºD,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0299,7.ºD,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0300,7.ºD,7,13.0,Estrangeira,Cabo-verdiana,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,C,False,False,Música,Cenografia,Teatro
-ALU-0301,7.ºD,7,15.0,Estrangeira,Nepalesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0302,7.ºD,7,12.0,Estrangeira,Nepalesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,N/A,False,False,Música,Cenografia,Teatro
-ALU-0303,7.ºD,7,12.0,Estrangeira,Indiana,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0304,7.ºD,7,14.0,Estrangeira,Nepalesa,Sim,Não,Sim,Sim,Não,Não,Não,Nenhuma,D,False,False,Teatro,Cenografia,Música
-ALU-0305,7.ºD,7,13.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0306,7.ºD,7,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,EMRC,D,False,False,Música,Teatro,Cenografia
-ALU-0307,7.ºD,7,,Estrangeira,Indiana,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,C,False,False,Teatro,Cenografia,Música
-ALU-0308,7.ºD,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0309,7.ºD,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Sim,Não,Sim,Nenhuma,A,False,False,Teatro,musica,Cenografia
-ALU-0310,7.ºD,7,14.0,Estrangeira,Nepalesa,Sim,Não,Não,Não,Sim,Não,Sim,Nenhuma,D,False,False,Teatro,Música,Cenografia
-ALU-0311,7.ºD,7,14.0,Estrangeira,Bangladechiana,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,False,False,Cenografia,Teatro,Cenografia
-ALU-0312,7.ºD,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0313,7.ºD,7,14.0,Estrangeira,Bangladechiana,Sim,Não,Não,Não,N/A,Não,Não,Nenhuma,A,False,False,Teatro,Cenografia,Música
-ALU-0314,7.ºD,7,13.0,Estrangeira,Outra,Não,N/A,N/A,N/A,N/A,N/A,N/A,Nenhuma,N/A,False,False,N/A,N/A,N/A
-ALU-0315,7.ºD,7,14.0,Estrangeira,Bangladechiana,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,A,False,False,Cenografia,Teatro,Música
-ALU-0316,8.ºA,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,N/A,N/A,N/A,N/A,Nenhuma,"B, C, D",True,True,Música,Cenografia,Teatro
-ALU-0317,8.ºA,8,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0318,8.ºA,8,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0319,8.ºA,8,15.0,Estrangeira,Brasileira,Sim,Não,Não,Não,Não,Sim,Sim,EMRE,D,True,True,Música,Teatro,Cenografia
-ALU-0320,8.ºA,8,15.0,Estrangeira,Brasileira,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,A,True,True,Música,Teatro,Cenografia
-ALU-0321,8.ºA,8,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,A,True,True,Teatro,Música,Cenografia
-ALU-0322,8.ºA,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,True,True,Música,Teatro,Cenografia
-ALU-0323,8.ºA,8,15.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Não,Nenhuma,D,True,True,Teatro,Cenografia,Música
-ALU-0324,8.ºA,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Não,Sim,Nenhuma,D,True,True,Teatro,Música,Cenografia
-ALU-0325,8.ºA,8,15.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Sim,Sim,Sim,Nenhuma,A,True,True,Teatro,Cenografia,Música
-ALU-0326,8.ºA,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Teatro,Cenografia,Música
-ALU-0327,8.ºA,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,EMRC,N/A,True,True,Teatro,Cenografia,Música
-ALU-0328,8.ºA,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Sim,Sim,Nenhuma,D,True,True,Cenografia,Música,Teatro
-ALU-0329,8.ºA,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Teatro,Cenografia,Música
-ALU-0330,8.ºA,8,15.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Não,Não,EMRE,A,True,True,Música,Teatro,Cenografia
-ALU-0331,8.ºA,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,"C, D",True,True,Teatro,Cenografia,Música
-ALU-0332,8.ºA,8,15.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,"C, D",True,True,Teatro,Cenografia,Música
-ALU-0333,8.ºA,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,C,True,True,Teatro,Cenografia,Música
-ALU-0334,8.ºB,8,,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Cenografia,Teatro,Música
-ALU-0335,8.ºB,8,14.0,Portuguesa,Portuguesa,Sim,Não,N/A,Sim,N/A,Sim,Sim,Nenhuma,D,True,False,Teatro,Música,Cenografia
-ALU-0336,8.ºB,8,13.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,EMRC,D,True,True,Música,Cenografia,Teatro
-ALU-0337,8.ºB,8,14.0,Estrangeira,Brasileira,Sim,N/A,N/A,Não,Não,Sim,Sim,EMRE,D,True,True,N/A,N/A,N/A
-ALU-0338,8.ºB,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,C,True,True,Cenografia,Teatro,Música
-ALU-0339,8.ºB,8,13.0,Estrangeira,Brasileira,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,True,True,Teatro,Cenografia,Música
-ALU-0340,8.ºB,8,16.0,Portuguesa,Portuguesa,Sim,Não,N/A,Não,N/A,Não,Sim,Nenhuma,D,True,True,N/A,N/A,N/A
-ALU-0341,8.ºB,8,15.0,Portuguesa,Portuguesa,Sim,Não,N/A,Não,Não,Não,Sim,Nenhuma,D,True,True,Cenografia,Teatro,Música
-ALU-0342,8.ºB,8,14.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,True,True,Música,Cenografia,Teatro
-ALU-0343,8.ºB,8,14.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,True,True,Música,Teatro,Cenografia
-ALU-0344,8.ºB,8,15.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Teatro,Cenografia,Música
-ALU-0345,8.ºB,8,16.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Cenografia,Música,Teatro
-ALU-0346,8.ºB,8,14.0,Portuguesa,Portuguesa,Sim,Não,Não,Sim,Sim,Sim,Sim,Nenhuma,D,True,True,Teatro,Cenografia,Música
-ALU-0347,8.ºB,8,17.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Sim,Sim,Sim,Nenhuma,D,True,True,Teatro,Cenografia,Música
-ALU-0348,8.ºB,8,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,N/A,N/A,Não,Não,Nenhuma,D,True,True,Teatro,Cenografia,Música
-ALU-0349,8.ºB,8,15.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Música,Teatro,Cenografia
-ALU-0350,8.ºB,8,16.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Teatro,Música,Cenografia
-ALU-0351,8.ºB,8,16.0,Estrangeira,Brasileira,Sim,Sim,Sim,Sim,Não,Não,Sim,Nenhuma,A,True,True,Teatro,Cenografia,Música
-ALU-0352,8.ºC,8,13.0,Estrangeira,Nepalesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,"B, C, D",True,True,Teatro,Cenografia,Música
-ALU-0353,8.ºC,8,14.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0354,8.ºC,8,14.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,"C, D",True,False,Cenografia,Teatro,Música
-ALU-0355,8.ºC,8,15.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,True,False,Cenografia,Teatro,Música
-ALU-0356,8.ºC,8,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0357,8.ºC,8,15.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,True,False,Teatro,Cenografia,Música
-ALU-0358,8.ºC,8,,Estrangeira,Russa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,A,True,False,Música,Teatro,Cenografia
-ALU-0359,8.ºC,8,17.0,Estrangeira,Indiana,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,C,True,False,Cenografia,Teatro,Música
-ALU-0360,8.ºC,8,12.0,Estrangeira,Guineense,Sim,Sim,Sim,Não,Não,Não,Sim,Nenhuma,C,True,False,Música,Teatro,Cenografia
-ALU-0361,8.ºC,8,14.0,Estrangeira,Nepalesa,Sim,Não,Não,Sim,Não,Não,Não,Nenhuma,B,True,False,Música,Cenografia,Teatro
-ALU-0362,8.ºC,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,True,False,Teatro,Música,Cenografia
-ALU-0363,8.ºC,8,14.0,Estrangeira,Indiana,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,True,False,Música,Cenografia,Teatro
-ALU-0364,8.ºC,8,14.0,Estrangeira,Nepalesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,True,False,Música,Teatro,Cenografia
-ALU-0365,8.ºC,8,16.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Nenhuma,C,True,False,Música,Cenografia,Teatro
-ALU-0366,8.ºC,8,15.0,Estrangeira,Nepalesa,Sim,Sim,Sim,Não,Não,Não,Sim,EMRC e EMRE,C,True,True,Música,Teatro,Cenografia
-ALU-0367,8.ºC,8,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,True,False,Teatro,Cenografia,Música
-ALU-0368,8.ºC,8,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0369,8.ºC,8,15.0,Estrangeira,Cabo-verdiana,Sim,Não,Não,Não,Não,Sim,Sim,EMRC,"B, C",True,False,Teatro,Música,Cenografia
-ALU-0370,8.ºC,8,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0371,8.ºD,8,13.0,Estrangeira,Outra,Sim,Sim,Sim,Não,Não,Não,Sim,Nenhuma,C,True,True,Música,Teatro,Cenografia
-ALU-0372,8.ºD,8,16.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Música,Cenografia,Teatro
-ALU-0373,8.ºD,8,14.0,Portuguesa,Portuguesa,Sim,Não,N/A,N/A,N/A,Sim,Sim,Nenhuma,"A, B, C, D",True,True,N/A,N/A,N/A
-ALU-0374,8.ºD,8,14.0,Estrangeira,Russa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,True,True,Teatro,Cenografia,Música
-ALU-0375,8.ºD,8,15.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0376,8.ºD,8,15.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0377,8.ºD,8,15.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Sim,Sim,Não,Sim,Nenhuma,C,True,True,Música,Cenografia,Teatro
-ALU-0378,8.ºD,8,16.0,Estrangeira,Bangladechiana,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,True,True,Música,Teatro,Cenografia
-ALU-0379,8.ºD,8,15.0,Estrangeira,Nepalesa,Sim,Sim,Sim,Não,Não,Não,Não,Nenhuma,D,True,True,Cenografia,Música,Teatro
-ALU-0380,8.ºD,8,15.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,True,True,Teatro,Cenografia,Música
-ALU-0381,8.ºD,8,14.0,Portuguesa,Portuguesa,Sim,N/A,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Teatro,Cenografia,Música
-ALU-0382,8.ºD,8,14.0,Estrangeira,Bangladechiana,Sim,Sim,Sim,Sim,Sim,Não,Sim,EMRC,A,True,False,Cenografia,Teatro,Música
-ALU-0383,8.ºD,8,14.0,Estrangeira,Nepalesa,Sim,Não,Sim,Não,Não,Não,Sim,EMRE,D,True,True,Música,Teatro,Cenografia
-ALU-0384,8.ºD,8,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0385,8.ºD,8,14.0,Portuguesa,Portuguesa,Sim,N/A,Sim,Não,Não,Sim,Sim,Nenhuma,N/A,True,True,Música,Teatro,Cenografia
-ALU-0386,8.ºD,8,15.0,Estrangeira,Nepalesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0387,8.ºD,8,17.0,Estrangeira,Bangladechiana,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,True,True,Música,Teatro,Cenografia
-ALU-0388,8.ºD,8,13.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0389,8.ºD,8,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0390,8.ºD,8,14.0,Estrangeira,Outra,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,B,True,True,Cenografia,Música,Teatro
-ALU-0391,8.ºD,8,16.0,Estrangeira,Cabo-verdiana,Sim,Não,Não,Não,Não,Sim,Sim,EMRC,"B, C",True,True,Teatro,Cenografia,Música
-ALU-0392,9.ºA,9,15.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0393,9.ºA,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0394,9.ºA,9,14.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0395,9.ºA,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0396,9.ºA,9,14.0,Estrangeira,Cabo-verdiana,Sim,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0397,9.ºA,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0398,9.ºA,9,15.0,Estrangeira,Nepalesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0399,9.ºA,9,16.0,Estrangeira,Cabo-verdiana,AE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0400,9.ºA,9,15.0,Estrangeira,Outra,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,A,True,True,Música,N/A,N/A
-ALU-0401,9.ºA,9,19.0,Estrangeira,Bangladechiana,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0402,9.ºA,9,16.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0403,9.ºA,9,15.0,Estrangeira,Outra,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0404,9.ºA,9,16.0,Estrangeira,Russa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0405,9.ºA,9,16.0,Portuguesa,Portuguesa,AE,Sim,Sim,N/A,N/A,Não,N/A,Nenhuma,A,True,True,N/A,N/A,N/A
-ALU-0406,9.ºA,9,14.0,Portuguesa,Portuguesa,Sim (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,"B, C",True,True,N/A,N/A,N/A
-ALU-0407,9.ºA,9,15.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0408,9.ºA,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0409,9.ºA,9,14.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0410,9.ºA,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0411,9.ºA,9,15.0,Estrangeira,Outra,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0412,9.ºA,9,16.0,Estrangeira,Outra,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0413,9.ºA,9,18.0,Portuguesa,Portuguesa,Não (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0414,9.ºA,9,14.0,Portuguesa,Portuguesa,Não (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0415,9.ºA,9,14.0,Portuguesa,Portuguesa,Não (AE),Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Cenografia,Teatro,Música
-ALU-0416,9.ºA,9,,Portuguesa,Portuguesa,Sim (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0417,9.ºA,9,15.0,Estrangeira,Indiana,Não,Não,N/A,Não,Não,Não,Sim,Nenhuma,A,True,True,Música,Teatro,Cenografia
-ALU-0418,9.ºA,9,15.0,Estrangeira,Nepalesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0419,9.ºA,9,15.0,Estrangeira,Russa,Não (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0420,9.ºA,9,15.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0421,9.ºB,9,14.0,Estrangeira,Nepalesa,Não (AE),Sim,Não,Não,Não,Não,Sim,EMRC e EMRE,D,True,False,Música,Cenografia,Teatro
-ALU-0422,9.ºB,9,,Estrangeira,Angolana,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0423,9.ºB,9,,Portuguesa,Portuguesa,Sim,N/A,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,N/A,N/A,N/A
-ALU-0424,9.ºB,9,17.0,Estrangeira,São-tomense,Sim,Sim,Não,Não,Sim,Não,Sim,EMRC,"C, D",True,True,Teatro,Música,Cenografia
-ALU-0425,9.ºB,9,15.0,Portuguesa,Portuguesa,Não (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0426,9.ºB,9,,N/A,N/A,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0427,9.ºB,9,15.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0428,9.ºB,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0429,9.ºB,9,14.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0430,9.ºB,9,14.0,Estrangeira,Nepalesa,Não,Sim,Não,N/A,N/A,Não,Sim,N/A,D,True,False,N/A,N/A,N/A
-ALU-0431,9.ºB,9,15.0,Estrangeira,Bangladechiana,Sim,Não,N/A,N/A,N/A,Não,Não,Nenhuma,"A, B, C, D",True,True,N/A,N/A,N/A
-ALU-0432,9.ºB,9,15.0,Estrangeira,Cabo-verdiana,Não (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0433,9.ºB,9,,Estrangeira,Guineense,Não (AE),N/A,N/A,N/A,N/A,Não,Sim,N/A,D,True,True,N/A,N/A,N/A
-ALU-0434,9.ºB,9,15.0,Portuguesa,Portuguesa,Não (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0435,9.ºB,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0436,9.ºB,9,14.0,Portuguesa,Portuguesa,Sim (AE),N/A,Sim,Não,Não,Não,Sim,N/A,D,True,True,N/A,N/A,N/A
-ALU-0437,9.ºB,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0438,9.ºB,9,15.0,Estrangeira,Nepalesa,Não,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,True,False,Música,Teatro,Cenografia
-ALU-0439,9.ºB,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0440,9.ºB,9,16.0,Portuguesa,Portuguesa,Não (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0441,9.ºB,9,16.0,Portuguesa,Portuguesa,Não (AE),Não,Sim,Sim,N/A,Sim,Sim,Nenhuma,D,True,True,N/A,N/A,N/A
-ALU-0442,9.ºB,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0443,9.ºB,9,17.0,Estrangeira,Indiana,Não,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,True,True,Música,Teatro,Cenografia
-ALU-0444,9.ºB,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0445,9.ºB,9,16.0,Portuguesa,Portuguesa,Não (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0446,PIEF 6.º,PIEF 6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0447,PIEF 6.º,PIEF 6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0448,PIEF 6.º,PIEF 6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0449,PIEF 6.º,PIEF 6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0450,PIEF 6.º,PIEF 6,16.0,Portuguesa,Portuguesa,Sim,N/A,Não,Não,Não,Não,Sim,N/A,D,True,True,N/A,N/A,N/A
-ALU-0451,PIEF 6.º,PIEF 6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0452,PIEF 6.º,PIEF 6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0453,PIEF 6.º,PIEF 6,16.0,Portuguesa,Portuguesa,Sim,N/A,Sim,Não,Não,Não,Sim,N/A,D,True,True,N/A,N/A,N/A
-ALU-0454,PIEF 6.º,PIEF 6,16.0,Portuguesa,Portuguesa,Sim,N/A,Sim,Sim,Não,Não,Não,N/A,"C, D",True,True,N/A,N/A,N/A
-ALU-0455,PIEF 6.º,PIEF 6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0456,PIEF 6.º,PIEF 6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0457,PIEF 6.º,PIEF 6,15.0,Portuguesa,Portuguesa,Sim,N/A,Sim,Não,Não,Não,Sim,N/A,D,True,True,N/A,N/A,N/A
-ALU-0458,PIEF 9.º,PIEF 9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0459,PIEF 9.º,PIEF 9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0460,PIEF 9.º,PIEF 9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0461,PIEF 9.º,PIEF 9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0462,PIEF 9.º,PIEF 9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
-ALU-0463,PIEF 9.º,PIEF 9,17.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A
+﻿id_aluno,turma,ano_escolaridade,idade,grupo_nacionalidade,nacionalidade,fica_escola,ate,ase,rtp,pei,tem_pc,tem_internet,religiao_moral,autorizacao_saida,tem_condicao_saude,tem_restricao_alimentar,categoria_saude,categoria_restricao_alimentar,oferta_escola_1,oferta_escola_2,oferta_escola_3
+ALU-0001,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0002,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0003,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,True,False,Outra condição,Nenhuma,Teatro,Cenografia,Música
+ALU-0004,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,EMRC,D,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0005,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0006,5.ºA,5,10.0,Estrangeira,Brasileira,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,False,Outra condição,Nenhuma,Teatro,Música,Cenografia
+ALU-0007,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Música,N/A,N/A
+ALU-0008,5.ºA,5,10.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,A,False,True,Nenhuma,Alergia alimentar,Música,Teatro,Cenografia
+ALU-0009,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0010,5.ºA,5,10.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,A,True,False,Alergias,Nenhuma,Música,Cenografia,Teatro
+ALU-0011,5.ºA,5,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Sim,Sim,Sim,Nenhuma,A,True,False,Neurológico,Nenhuma,Teatro,Música,Cenografia
+ALU-0012,5.ºA,5,6.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,EMRC,A,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0013,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Não,Sim,Nenhuma,C,True,True,Hiperatividade / défice de atenção,Alergia alimentar,Teatro,Música,Cenografia
+ALU-0014,5.ºA,5,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,EMRC e EMRE,C,True,False,Hematológico,Nenhuma,Cenografia,Teatro,Música
+ALU-0015,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Não,Sim,Nenhuma,C,True,False,Hiperatividade / défice de atenção,Nenhuma,Teatro,N/A,N/A
+ALU-0016,5.ºA,5,13.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Não,Não,EMRE,A,False,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0017,5.ºA,5,10.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0018,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0019,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0020,5.ºA,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0021,5.ºA,5,10.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Cenografia,Música,Teatro
+ALU-0022,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0023,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Sim,Não,Sim,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0024,5.ºB,5,11.0,Estrangeira,Brasileira,Sim,Não,N/A,Não,Não,Sim,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0025,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0026,5.ºB,5,10.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0027,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Não,Nenhuma,"C, D",False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0028,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Sim,Não,Não,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0029,5.ºB,5,10.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,A,True,False,Outra condição,Nenhuma,Cenografia,Teatro,Música
+ALU-0030,5.ºB,5,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,EMRE,B,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0031,5.ºB,5,11.0,Estrangeira,Brasileira,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,"B, C, D",False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0032,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,True,True,Outra condição,Alergia alimentar,Teatro,Música,Cenografia
+ALU-0033,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Não,Sim,Nenhuma,A,True,False,Neurológico,Nenhuma,Cenografia,Teatro,Música
+ALU-0034,5.ºB,5,10.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Não,Nenhuma,A,False,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0035,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0036,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0037,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,True,False,Respiratório (asma/bronquite),Nenhuma,Música,Teatro,Cenografia
+ALU-0038,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,True,False,Outra condição,Nenhuma,Teatro,Cenografia,Música
+ALU-0039,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0040,5.ºB,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0041,5.ºB,5,11.0,Estrangeira,Outra,Sim,Não,Não,Não,Não,Não,Não,Nenhuma,A,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0042,5.ºB,5,10.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0043,5.ºC,5,12.0,Estrangeira,Russa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0044,5.ºC,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0045,5.ºC,5,11.0,Estrangeira,Brasileira,Sim,Sim,Sim,Não,Não,Sim,Sim,Nenhuma,"A, C, D",False,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0046,5.ºC,5,11.0,Portuguesa,Portuguesa,Sim,Não,N/A,Não,Não,Não,Sim,Nenhuma,B,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0047,5.ºC,5,11.0,Estrangeira,Outra,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0048,5.ºC,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0049,5.ºC,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0050,5.ºC,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0051,5.ºC,5,12.0,Portuguesa,Portuguesa,Sim,Sim,Não,Sim,Sim,Sim,Sim,Nenhuma,C,True,False,Hiperatividade / défice de atenção,Nenhuma,Música,Teatro,Cenografia
+ALU-0052,5.ºC,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,C,True,False,Alergias,Nenhuma,Música,Cenografia,Teatro
+ALU-0053,5.ºC,5,10.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0054,5.ºC,5,12.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Sim,Não,Sim,Sim,Nenhuma,D,True,False,Outra condição,Nenhuma,Música,Cenografia,Teatro
+ALU-0055,5.ºC,5,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,B,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0056,5.ºC,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,com o CCR,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0057,5.ºC,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Cenografia,Música,Teatro
+ALU-0058,5.ºC,5,10.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0059,5.ºC,5,10.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,True,False,Outra condição,Nenhuma,Música,Teatro,Cenografia
+ALU-0060,5.ºC,5,10.0,Estrangeira,Outra,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0061,5.ºC,5,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Não,Sim,Nenhuma,"C, D",False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0062,5.ºC,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0063,5.ºC,5,10.0,Estrangeira,Nepalesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0064,5.ºC,5,10.0,Estrangeira,Nepalesa,Sim,Sim,N/A,Não,Não,Sim,Sim,Nenhuma,"A, B, C, D",False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0065,5.ºD,5,10.0,Estrangeira,Nepalesa,Sim,Não,Sim,Sim,Não,Não,Não,EMRC,"B, C, D",False,True,Nenhuma,Não come porco/vaca (cultural ou religioso),Música,Teatro,Cenografia
+ALU-0066,5.ºD,5,10.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0067,5.ºD,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0068,5.ºD,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,"C, D",False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0069,5.ºD,5,11.0,Estrangeira,Nepalesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0070,5.ºD,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0071,5.ºD,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,"C, D",True,False,Outra condição,Nenhuma,Teatro,Música,Cenografia
+ALU-0072,5.ºD,5,11.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Não,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0073,5.ºD,5,14.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0074,5.ºD,5,11.0,Estrangeira,Nepalesa,Sim,Não,Sim,Sim,Não,Não,Sim,EMRC e EMRE,D,False,False,Nenhuma,Nenhuma,Música,N/A,N/A
+ALU-0075,5.ºD,5,10.0,Estrangeira,Russa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0076,5.ºD,5,11.0,Portuguesa,Portuguesa,Sim,Não,N/A,Não,Não,Não,Sim,Nenhuma,C,True,False,Hematológico,Nenhuma,Música,Teatro,Cenografia
+ALU-0077,5.ºD,5,12.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Sim,Sim,EMRE,B,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0078,5.ºD,5,,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0079,5.ºD,5,10.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,A,True,False,Alergias,Nenhuma,Música,Teatro,Cenografia
+ALU-0080,5.ºD,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,EMRE,"C, D",False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0081,5.ºD,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0082,5.ºD,5,12.0,Estrangeira,Indiana,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0083,5.ºD,5,12.0,Estrangeira,Russa,Não,N/A,Não,Não,Não,Não,Sim,N/A,"C, D",False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0084,5.ºD,5,11.0,Portuguesa,Portuguesa,Sim,N/A,Não,Não,Não,Sim,Sim,N/A,C,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0085,5.ºD,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0086,5.ºD,5,11.0,Estrangeira,Nepalesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,"C, D",False,True,Nenhuma,Não come porco/vaca (cultural ou religioso),Música,Teatro,Cenografia
+ALU-0087,5.ºD,5,12.0,Estrangeira,Nepalesa,Sim,Não,N/A,N/A,N/A,Não,Sim,EMRE,D,False,True,Nenhuma,Não come porco/vaca (cultural ou religioso),Teatro,Cenografia,Música
+ALU-0088,5.ºD,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0089,5.ºE,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0090,5.ºE,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0091,5.ºE,5,11.0,Estrangeira,Nepalesa,Sim,Sim,Não,Não,Não,Sim,Sim,EMRC e EMRE,D,False,True,Nenhuma,Não come porco/vaca (cultural ou religioso),Música,Cenografia,Teatro
+ALU-0092,5.ºE,5,10.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0093,5.ºE,5,15.0,Estrangeira,Angolana,Sim,Sim,N/A,Não,Não,Não,Sim,EMRE,C,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0094,5.ºE,5,12.0,Estrangeira,Outra,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,True,Nenhuma,Alergia alimentar,Cenografia,Teatro,Música
+ALU-0095,5.ºE,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0096,5.ºE,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0097,5.ºE,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,B,True,False,Outra condição,Nenhuma,Cenografia,Teatro,Música
+ALU-0098,5.ºE,5,10.0,Estrangeira,Outra,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0099,5.ºE,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0100,5.ºE,5,10.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0101,5.ºE,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0102,5.ºE,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0103,5.ºE,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Não,Nenhuma,A,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0104,5.ºE,5,11.0,Estrangeira,Nepalesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0105,5.ºE,5,12.0,Estrangeira,Nepalesa,Não,Não,N/A,Não,Não,Não,Sim,N/A,N/A,False,True,Nenhuma,Não come porco/vaca (cultural ou religioso),Música,N/A,N/A
+ALU-0106,5.ºE,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0107,5.ºE,5,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0108,5.ºE,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0109,5.ºF,5,10.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Sim,Não,Sim,Nenhuma,A,True,False,Respiratório (asma/bronquite),Nenhuma,Teatro,Música,Cenografia
+ALU-0110,5.ºF,5,10.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0111,5.ºF,5,10.0,Estrangeira,Nepalesa,Sim,Não,N/A,Não,Não,Não,Não,Nenhuma,B,False,False,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0112,5.ºF,5,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0113,5.ºF,5,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0114,5.ºF,5,,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0115,5.ºF,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0116,5.ºF,5,12.0,Estrangeira,Brasileira,Sim,Não,Sim,Não,Não,Não,Sim,EMRC,D,False,True,Nenhuma,Alergia alimentar,Teatro,Cenografia,Música
+ALU-0117,5.ºF,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Sim,Sim,Nenhuma,A,True,False,Hiperatividade / défice de atenção,Nenhuma,Cenografia,Teatro,Música
+ALU-0118,5.ºF,5,10.0,Estrangeira,Outra,Sim,Não,Sim,Não,Não,Sim,Sim,EMRE,C,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0119,5.ºF,5,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0120,5.ºF,5,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0121,5.ºF,5,12.0,Estrangeira,Outra,Sim,Não,Sim,Não,Não,Não,Sim,EMRC,C,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0122,5.ºF,5,10.0,Estrangeira,Outra,Sim,Não,Não,Não,Não,Não,Sim,EMRC,C,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0123,5.ºF,5,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0124,5.ºF,5,11.0,Estrangeira,Nepalesa,Sim,Não,Não,Sim,Não,Não,Não,Nenhuma,D,False,False,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0125,5.ºF,5,10.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0126,5.ºF,5,11.0,Estrangeira,Cabo-verdiana,Sim,Não,Não,Não,Não,Sim,Sim,EMRC,C,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0127,5.ºF,5,11.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Não,Sim,EMRE,D,True,False,Respiratório (asma/bronquite),Nenhuma,Música,Cenografia,Teatro
+ALU-0128,5.ºF,5,10.0,Portuguesa,Portuguesa,Sim,Não,N/A,Não,Não,Não,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0129,5.ºF,5,11.0,Estrangeira,Nepalesa,Sim,Não,Não,Não,Não,Não,Não,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0130,6.ºA,6,14.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Sim,Não,Sim,Sim,Nenhuma,D,True,False,Neurológico,Nenhuma,Cenografia,Música,Teatro
+ALU-0131,6.ºA,6,11.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0132,6.ºA,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0133,6.ºA,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0134,6.ºA,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0135,6.ºA,6,11.0,Estrangeira,Russa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0136,6.ºA,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0137,6.ºA,6,16.0,Estrangeira,Outra,Sim,Sim,Sim,Sim,Sim,Não,Sim,EMRC,C,True,False,Outra condição,Nenhuma,Música,Teatro,Cenografia
+ALU-0138,6.ºA,6,11.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0139,6.ºA,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0140,6.ºA,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0141,6.ºA,6,12.0,Portuguesa,Portuguesa,Não,Não,Sim,Sim,Sim,Não,Sim,Nenhuma,D,True,True,Hiperatividade / défice de atenção,Alergia alimentar,Teatro,Cenografia,Música
+ALU-0142,6.ºA,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0143,6.ºA,6,11.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0144,6.ºA,6,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,True,Nenhuma,Alergia alimentar,Teatro,Música,Cenografia
+ALU-0145,6.ºA,6,11.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0146,6.ºA,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0147,6.ºA,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0148,6.ºA,6,13.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0149,6.ºB,6,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0150,6.ºB,6,9.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0151,6.ºB,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0152,6.ºB,6,12.0,Estrangeira,Brasileira,Sim,Não,Não,Não,Não,Não,Sim,EMRC,C,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0153,6.ºB,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0154,6.ºB,6,12.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0155,6.ºB,6,11.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0156,6.ºB,6,12.0,Estrangeira,Outra,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0157,6.ºB,6,12.0,Portuguesa,Portuguesa,Sim,Não,Não,Sim,Sim,Não,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0158,6.ºB,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0159,6.ºB,6,11.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0160,6.ºB,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0161,6.ºB,6,12.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0162,6.ºB,6,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Não,Sim,Nenhuma,D,True,False,Hiperatividade / défice de atenção,Nenhuma,Música,Teatro,Cenografia
+ALU-0163,6.ºB,6,12.0,Estrangeira,Outra,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,"C, D",False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0164,6.ºB,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0165,6.ºB,6,11.0,Estrangeira,Angolana,Sim,Sim,Não,Não,Não,Sim,Sim,EMRC,C,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0166,6.ºB,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0167,6.ºB,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0168,6.ºC,6,11.0,Estrangeira,Outra,Sim,Sim,Não,Não,Não,Não,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0169,6.ºC,6,13.0,Estrangeira,Brasileira,Sim,Não,Sim,Não,Não,Não,Sim,EMRC,D,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0170,6.ºC,6,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,True,False,Outra condição,Nenhuma,Teatro,Cenografia,Música
+ALU-0171,6.ºC,6,11.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0172,6.ºC,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0173,6.ºC,6,12.0,Estrangeira,Outra,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0174,6.ºC,6,12.0,Portuguesa,Portuguesa,Sim,Não,N/A,N/A,N/A,Sim,Sim,Nenhuma,"C, D",True,False,Hiperatividade / défice de atenção,Nenhuma,N/A,N/A,N/A
+ALU-0175,6.ºC,6,13.0,Estrangeira,Bangladechiana,Sim,Não,N/A,Não,Não,Não,Não,Nenhuma,"A, B, C, D",False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0176,6.ºC,6,13.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0177,6.ºC,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Sim,Não,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0178,6.ºC,6,14.0,Estrangeira,Cabo-verdiana,Sim,Não,Sim,Não,Não,Não,Sim,EMRC,"C, D",False,False,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0179,6.ºC,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0180,6.ºC,6,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0181,6.ºC,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0182,6.ºC,6,12.0,Estrangeira,Bangladechiana,Sim,Sim,Sim,Não,Não,Não,Não,Nenhuma,D,False,True,Nenhuma,Vegetariano,Cenografia,N/A,N/A
+ALU-0183,6.ºC,6,11.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0184,6.ºC,6,,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Sim,Não,Sim,Nenhuma,"C, D",True,False,Respiratório (asma/bronquite),Nenhuma,Música,Cenografia,Teatro
+ALU-0185,6.ºC,6,11.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0186,6.ºC,6,13.0,Estrangeira,Bangladechiana,Sim,Não,Não,Não,Não,Não,Não,Nenhuma,A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0187,6.ºC,6,14.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Sim,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,N/A,N/A
+ALU-0188,6.ºD,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0189,6.ºD,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,True,False,Respiratório (asma/bronquite),Nenhuma,Teatro,Música,Cenografia
+ALU-0190,6.ºD,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0191,6.ºD,6,13.0,Estrangeira,Brasileira,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0192,6.ºD,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0193,6.ºD,6,12.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0194,6.ºD,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0195,6.ºD,6,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,False,Outra condição,Nenhuma,Teatro,Cenografia,Música
+ALU-0196,6.ºD,6,12.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Sim,Sim,Não,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0197,6.ºD,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0198,6.ºD,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0199,6.ºD,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0200,6.ºD,6,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Não,Nenhuma,D,True,False,Respiratório (asma/bronquite),Nenhuma,Música,Teatro,Cenografia
+ALU-0201,6.ºD,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Teatro,Teatro
+ALU-0202,6.ºD,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0203,6.ºD,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0204,6.ºD,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0205,6.ºD,6,5.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0206,6.ºD,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0207,6.ºD,6,14.0,Estrangeira,Brasileira,Sim,Sim,Sim,Não,Não,Não,Sim,EMRE,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0208,6.ºD,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0209,6.ºD,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0210,6.ºE,6,11.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0211,6.ºE,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0212,6.ºE,6,12.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0213,6.ºE,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0214,6.ºE,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0215,6.ºE,6,11.0,Portuguesa,Portuguesa,Sim,Não,N/A,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0216,6.ºE,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Não,Sim,Nenhuma,"C, D",False,False,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0217,6.ºE,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0218,6.ºE,6,12.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0219,6.ºE,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0220,6.ºE,6,11.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0221,6.ºE,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0222,6.ºE,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0223,6.ºE,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0224,6.ºE,6,12.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0225,6.ºE,6,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0226,6.ºE,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Não,Nenhuma,"C, D",False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0227,6.ºE,6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0228,6.ºE,6,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Sim,Sim,Sim,Nenhuma,C,True,False,Hiperatividade / défice de atenção,Nenhuma,Música,Cenografia,Música
+ALU-0229,6.ºE,6,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,False,Outra condição,Nenhuma,Teatro,Cenografia,Música
+ALU-0230,6.ºE,6,,Estrangeira,Bangladechiana,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Cenografia,Música,Teatro
+ALU-0231,7.ºA,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0232,7.ºA,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0233,7.ºA,7,13.0,Estrangeira,Brasileira,Sim,Não,N/A,Não,Não,Não,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0234,7.ºA,7,13.0,Estrangeira,São-tomense,Sim,Não,Sim,Não,Não,Não,Sim,EMRC,C,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0235,7.ºA,7,12.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0236,7.ºA,7,13.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,True,False,Respiratório (asma/bronquite),Nenhuma,Teatro,Cenografia,Música
+ALU-0237,7.ºA,7,12.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0238,7.ºA,7,13.0,Estrangeira,Brasileira,Sim,N/A,N/A,Não,N/A,Sim,Sim,Nenhuma,D,True,False,Respiratório (asma/bronquite),Nenhuma,Teatro,Cenografia,Música
+ALU-0239,7.ºA,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0240,7.ºA,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,N/A,Sim,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0241,7.ºA,7,14.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Sim,Sim,Nenhuma,C,True,False,Outra condição,Nenhuma,Música,Teatro,Cenografia
+ALU-0242,7.ºA,7,14.0,Portuguesa,Portuguesa,Sim,N/A,Sim,Não,Não,Não,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0243,7.ºA,7,12.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0244,7.ºA,7,14.0,Estrangeira,Angolana,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0245,7.ºA,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0246,7.ºA,7,14.0,Estrangeira,Brasileira,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0247,7.ºA,7,12.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0248,7.ºA,7,13.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Sim,Sim,Nenhuma,C,True,False,Neurológico,Nenhuma,Música,Teatro,Cenografia
+ALU-0249,7.ºA,7,,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Sim,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Cenografia,Música,Teatro
+ALU-0250,7.ºA,7,13.0,Portuguesa,Portuguesa,Sim,N/A,Sim,Não,Sim,Sim,Sim,Nenhuma,D,True,False,Respiratório (asma/bronquite),Nenhuma,Teatro,Cenografia,Música
+ALU-0251,7.ºA,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0252,7.ºA,7,12.0,Portuguesa,Portuguesa,Sim,N/A,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0253,7.ºA,7,15.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0254,7.ºB,7,14.0,Estrangeira,Outra,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0255,7.ºB,7,15.0,Estrangeira,Guineense,Sim,Não,Não,Não,Não,Não,Não,Nenhuma,D,True,False,Outra condição,Nenhuma,Teatro,Cenografia,Música
+ALU-0256,7.ºB,7,14.0,Estrangeira,Brasileira,Sim,Não,Não,Não,Não,Não,Não,EMRE,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0257,7.ºB,7,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0258,7.ºB,7,14.0,Estrangeira,Angolana,Sim,Não,Sim,Não,Não,Sim,Sim,EMRE,C,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0259,7.ºB,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0260,7.ºB,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0261,7.ºB,7,16.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0262,7.ºB,7,14.0,Portuguesa,Portuguesa,Não,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0263,7.ºB,7,16.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,False,True,Nenhuma,Alergia alimentar,Teatro,Cenografia,Música
+ALU-0264,7.ºB,7,13.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0265,7.ºB,7,16.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Cenografia,Música
+ALU-0266,7.ºB,7,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0267,7.ºB,7,12.0,Estrangeira,Nepalesa,Sim,Não,Sim,Não,Não,Não,Não,Nenhuma,D,False,False,Nenhuma,Não come porco/vaca (cultural ou religioso),Teatro,Música,Música
+ALU-0268,7.ºB,7,,Portuguesa,Portuguesa,Sim,Não,N/A,N/A,Sim,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0269,7.ºB,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0270,7.ºB,7,14.0,Estrangeira,Nepalesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0271,7.ºB,7,14.0,Estrangeira,São-tomense,Sim,Não,Não,Não,Não,Sim,Sim,EMRE,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0272,7.ºB,7,14.0,Estrangeira,Brasileira,Sim,Não,Não,Não,Não,Não,Sim,EMRC,C,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0273,7.ºB,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Sim,Não,Sim,Nenhuma,A,True,False,Neurológico,Nenhuma,Música,Cenografia,Teatro
+ALU-0274,7.ºC,7,14.0,Estrangeira,Nepalesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0275,7.ºC,7,12.0,Estrangeira,Outra,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0276,7.ºC,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0277,7.ºC,7,16.0,Estrangeira,Guineense,Sim,Sim,Sim,Sim,Não,Não,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0278,7.ºC,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0279,7.ºC,7,13.0,Estrangeira,Brasileira,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0280,7.ºC,7,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,False,Respiratório (asma/bronquite),Nenhuma,Cenografia,Teatro,Música
+ALU-0281,7.ºC,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,True,False,Respiratório (asma/bronquite),Nenhuma,Teatro,Cenografia,Música
+ALU-0282,7.ºC,7,14.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,C,True,False,Respiratório (asma/bronquite),Nenhuma,Teatro,Cenografia,Música
+ALU-0283,7.ºC,7,13.0,Estrangeira,Brasileira,Sim,Não,Não,Sim,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0284,7.ºC,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0285,7.ºC,7,13.0,Estrangeira,Outra,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0286,7.ºC,7,13.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0287,7.ºC,7,13.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0288,7.ºC,7,13.0,Estrangeira,Russa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0289,7.ºC,7,13.0,Estrangeira,Nepalesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,True,Nenhuma,Não come porco/vaca (cultural ou religioso),Música,Teatro,Cenografia
+ALU-0290,7.ºC,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Sim,Sim,Nenhuma,D,True,False,Hiperatividade / défice de atenção,Nenhuma,Teatro,Cenografia,Música
+ALU-0291,7.ºC,7,13.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0292,7.ºC,7,,Estrangeira,Bangladechiana,Sim,Não,Sim,Não,Não,Não,Não,Nenhuma,D,False,False,Nenhuma,Outra restrição,Teatro,Cenografia,Música
+ALU-0293,7.ºC,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0294,7.ºC,7,16.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Não,Sim,Nenhuma,D,True,False,Outra condição,Nenhuma,Cenografia,Teatro,Música
+ALU-0295,7.ºD,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0296,7.ºD,7,14.0,Estrangeira,Indiana,Sim,Sim,Sim,Não,Não,Não,Não,EMRE,N/A,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0297,7.ºD,7,15.0,Portuguesa,Portuguesa,Sim,Não,N/A,Não,N/A,Não,Sim,Nenhuma,B,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0298,7.ºD,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0299,7.ºD,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0300,7.ºD,7,13.0,Estrangeira,Cabo-verdiana,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0301,7.ºD,7,15.0,Estrangeira,Nepalesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0302,7.ºD,7,12.0,Estrangeira,Nepalesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,N/A,False,False,Nenhuma,Não come porco/vaca (cultural ou religioso),Música,Cenografia,Teatro
+ALU-0303,7.ºD,7,12.0,Estrangeira,Indiana,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0304,7.ºD,7,14.0,Estrangeira,Nepalesa,Sim,Não,Sim,Sim,Não,Não,Não,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0305,7.ºD,7,13.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0306,7.ºD,7,12.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,EMRC,D,False,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0307,7.ºD,7,,Estrangeira,Indiana,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,C,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0308,7.ºD,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0309,7.ºD,7,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Sim,Não,Sim,Nenhuma,A,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0310,7.ºD,7,14.0,Estrangeira,Nepalesa,Sim,Não,Não,Não,Sim,Não,Sim,Nenhuma,D,False,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0311,7.ºD,7,14.0,Estrangeira,Bangladechiana,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,False,False,Nenhuma,Não come porco/vaca (cultural ou religioso),Cenografia,Teatro,Cenografia
+ALU-0312,7.ºD,7,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0313,7.ºD,7,14.0,Estrangeira,Bangladechiana,Sim,Não,Não,Não,N/A,Não,Não,Nenhuma,A,False,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0314,7.ºD,7,13.0,Estrangeira,Outra,Não,N/A,N/A,N/A,N/A,N/A,N/A,Nenhuma,N/A,False,False,Nenhuma,Não come porco/vaca (cultural ou religioso),N/A,N/A,N/A
+ALU-0315,7.ºD,7,14.0,Estrangeira,Bangladechiana,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,A,False,False,Nenhuma,Não come porco/vaca (cultural ou religioso),Cenografia,Teatro,Música
+ALU-0316,8.ºA,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,N/A,N/A,N/A,N/A,Nenhuma,"B, C, D",True,True,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0317,8.ºA,8,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0318,8.ºA,8,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0319,8.ºA,8,15.0,Estrangeira,Brasileira,Sim,Não,Não,Não,Não,Sim,Sim,EMRE,D,True,True,Respiratório (asma/bronquite),Nenhuma,Música,Teatro,Cenografia
+ALU-0320,8.ºA,8,15.0,Estrangeira,Brasileira,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,A,True,True,Hematológico,Nenhuma,Música,Teatro,Cenografia
+ALU-0321,8.ºA,8,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,A,True,True,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0322,8.ºA,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0323,8.ºA,8,15.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Não,Nenhuma,D,True,True,Respiratório (asma/bronquite),Nenhuma,Teatro,Cenografia,Música
+ALU-0324,8.ºA,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Não,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0325,8.ºA,8,15.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Sim,Sim,Sim,Nenhuma,A,True,True,Outra condição,Nenhuma,Teatro,Cenografia,Música
+ALU-0326,8.ºA,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0327,8.ºA,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,EMRC,N/A,True,True,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0328,8.ºA,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Sim,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,Cenografia,Música,Teatro
+ALU-0329,8.ºA,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0330,8.ºA,8,15.0,Portuguesa,Portuguesa,Sim,Não,Sim,Sim,Não,Não,Não,EMRE,A,True,True,Outra condição,Nenhuma,Música,Teatro,Cenografia
+ALU-0331,8.ºA,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,"C, D",True,True,Respiratório (asma/bronquite),Nenhuma,Teatro,Cenografia,Música
+ALU-0332,8.ºA,8,15.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,"C, D",True,True,Alergias,Nenhuma,Teatro,Cenografia,Música
+ALU-0333,8.ºA,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,C,True,True,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0334,8.ºB,8,,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0335,8.ºB,8,14.0,Portuguesa,Portuguesa,Sim,Não,N/A,Sim,N/A,Sim,Sim,Nenhuma,D,True,False,Nenhuma,Alergia alimentar,Teatro,Música,Cenografia
+ALU-0336,8.ºB,8,13.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,EMRC,D,True,True,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0337,8.ºB,8,14.0,Estrangeira,Brasileira,Sim,N/A,N/A,Não,Não,Sim,Sim,EMRE,D,True,True,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0338,8.ºB,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,C,True,True,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0339,8.ºB,8,13.0,Estrangeira,Brasileira,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0340,8.ºB,8,16.0,Portuguesa,Portuguesa,Sim,Não,N/A,Não,N/A,Não,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0341,8.ºB,8,15.0,Portuguesa,Portuguesa,Sim,Não,N/A,Não,Não,Não,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0342,8.ºB,8,14.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0343,8.ºB,8,14.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0344,8.ºB,8,15.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0345,8.ºB,8,16.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Respiratório (asma/bronquite),Nenhuma,Cenografia,Música,Teatro
+ALU-0346,8.ºB,8,14.0,Portuguesa,Portuguesa,Sim,Não,Não,Sim,Sim,Sim,Sim,Nenhuma,D,True,True,Outra condição,Nenhuma,Teatro,Cenografia,Música
+ALU-0347,8.ºB,8,17.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Não,Sim,Sim,Sim,Nenhuma,D,True,True,Outra condição,Nenhuma,Teatro,Cenografia,Música
+ALU-0348,8.ºB,8,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,N/A,N/A,Não,Não,Nenhuma,D,True,True,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0349,8.ºB,8,15.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0350,8.ºB,8,16.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Outra condição,Nenhuma,Teatro,Música,Cenografia
+ALU-0351,8.ºB,8,16.0,Estrangeira,Brasileira,Sim,Sim,Sim,Sim,Não,Não,Sim,Nenhuma,A,True,True,Outra condição,Nenhuma,Teatro,Cenografia,Música
+ALU-0352,8.ºC,8,13.0,Estrangeira,Nepalesa,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,"B, C, D",True,True,Nenhuma,Vegetariano,Teatro,Cenografia,Música
+ALU-0353,8.ºC,8,14.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0354,8.ºC,8,14.0,Portuguesa,Portuguesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,"C, D",True,False,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0355,8.ºC,8,15.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,True,False,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0356,8.ºC,8,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0357,8.ºC,8,15.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,True,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0358,8.ºC,8,,Estrangeira,Russa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,A,True,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0359,8.ºC,8,17.0,Estrangeira,Indiana,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,C,True,False,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0360,8.ºC,8,12.0,Estrangeira,Guineense,Sim,Sim,Sim,Não,Não,Não,Sim,Nenhuma,C,True,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0361,8.ºC,8,14.0,Estrangeira,Nepalesa,Sim,Não,Não,Sim,Não,Não,Não,Nenhuma,B,True,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0362,8.ºC,8,14.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,C,True,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0363,8.ºC,8,14.0,Estrangeira,Indiana,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,True,False,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0364,8.ºC,8,14.0,Estrangeira,Nepalesa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,True,False,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0365,8.ºC,8,16.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Nenhuma,C,True,False,Hiperatividade / défice de atenção,Nenhuma,Música,Cenografia,Teatro
+ALU-0366,8.ºC,8,15.0,Estrangeira,Nepalesa,Sim,Sim,Sim,Não,Não,Não,Sim,EMRC e EMRE,C,True,True,Nenhuma,Outra restrição,Música,Teatro,Cenografia
+ALU-0367,8.ºC,8,13.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,True,False,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0368,8.ºC,8,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0369,8.ºC,8,15.0,Estrangeira,Cabo-verdiana,Sim,Não,Não,Não,Não,Sim,Sim,EMRC,"B, C",True,False,Nenhuma,Nenhuma,Teatro,Música,Cenografia
+ALU-0370,8.ºC,8,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0371,8.ºD,8,13.0,Estrangeira,Outra,Sim,Sim,Sim,Não,Não,Não,Sim,Nenhuma,C,True,True,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0372,8.ºD,8,16.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0373,8.ºD,8,14.0,Portuguesa,Portuguesa,Sim,Não,N/A,N/A,N/A,Sim,Sim,Nenhuma,"A, B, C, D",True,True,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0374,8.ºD,8,14.0,Estrangeira,Russa,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0375,8.ºD,8,15.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0376,8.ºD,8,15.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0377,8.ºD,8,15.0,Portuguesa,Portuguesa,Sim,Sim,Sim,Sim,Sim,Não,Sim,Nenhuma,C,True,True,Nenhuma,Nenhuma,Música,Cenografia,Teatro
+ALU-0378,8.ºD,8,16.0,Estrangeira,Bangladechiana,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,True,True,Nenhuma,Vegetariano,Música,Teatro,Cenografia
+ALU-0379,8.ºD,8,15.0,Estrangeira,Nepalesa,Sim,Sim,Sim,Não,Não,Não,Não,Nenhuma,D,True,True,Nenhuma,Nenhuma,Cenografia,Música,Teatro
+ALU-0380,8.ºD,8,15.0,Portuguesa,Portuguesa,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0381,8.ºD,8,14.0,Portuguesa,Portuguesa,Sim,N/A,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0382,8.ºD,8,14.0,Estrangeira,Bangladechiana,Sim,Sim,Sim,Sim,Sim,Não,Sim,EMRC,A,True,False,Outra condição,Não come porco/vaca (cultural ou religioso),Cenografia,Teatro,Música
+ALU-0383,8.ºD,8,14.0,Estrangeira,Nepalesa,Sim,Não,Sim,Não,Não,Não,Sim,EMRE,D,True,True,Nenhuma,Outra restrição,Música,Teatro,Cenografia
+ALU-0384,8.ºD,8,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0385,8.ºD,8,14.0,Portuguesa,Portuguesa,Sim,N/A,Sim,Não,Não,Sim,Sim,Nenhuma,N/A,True,True,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0386,8.ºD,8,15.0,Estrangeira,Nepalesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0387,8.ºD,8,17.0,Estrangeira,Bangladechiana,Sim,Não,Não,Não,Não,Não,Sim,Nenhuma,D,True,True,Nenhuma,Vegetariano,Música,Teatro,Cenografia
+ALU-0388,8.ºD,8,13.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0389,8.ºD,8,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0390,8.ºD,8,14.0,Estrangeira,Outra,Sim,Não,Não,Não,Não,Sim,Sim,Nenhuma,B,True,True,Nenhuma,Nenhuma,Cenografia,Música,Teatro
+ALU-0391,8.ºD,8,16.0,Estrangeira,Cabo-verdiana,Sim,Não,Não,Não,Não,Sim,Sim,EMRC,"B, C",True,True,Nenhuma,Nenhuma,Teatro,Cenografia,Música
+ALU-0392,9.ºA,9,15.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0393,9.ºA,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0394,9.ºA,9,14.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0395,9.ºA,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0396,9.ºA,9,14.0,Estrangeira,Cabo-verdiana,Sim,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0397,9.ºA,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0398,9.ºA,9,15.0,Estrangeira,Nepalesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0399,9.ºA,9,16.0,Estrangeira,Cabo-verdiana,AE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0400,9.ºA,9,15.0,Estrangeira,Outra,Sim,Não,Sim,Não,Não,Sim,Sim,Nenhuma,A,True,True,Neurológico,Nenhuma,Música,N/A,N/A
+ALU-0401,9.ºA,9,19.0,Estrangeira,Bangladechiana,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0402,9.ºA,9,16.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0403,9.ºA,9,15.0,Estrangeira,Outra,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0404,9.ºA,9,16.0,Estrangeira,Russa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0405,9.ºA,9,16.0,Portuguesa,Portuguesa,AE,Sim,Sim,N/A,N/A,Não,N/A,Nenhuma,A,True,True,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0406,9.ºA,9,14.0,Portuguesa,Portuguesa,Sim (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,"B, C",True,True,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0407,9.ºA,9,15.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0408,9.ºA,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0409,9.ºA,9,14.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0410,9.ºA,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0411,9.ºA,9,15.0,Estrangeira,Outra,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0412,9.ºA,9,16.0,Estrangeira,Outra,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0413,9.ºA,9,18.0,Portuguesa,Portuguesa,Não (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0414,9.ºA,9,14.0,Portuguesa,Portuguesa,Não (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0415,9.ºA,9,14.0,Portuguesa,Portuguesa,Não (AE),Não,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,Cenografia,Teatro,Música
+ALU-0416,9.ºA,9,,Portuguesa,Portuguesa,Sim (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0417,9.ºA,9,15.0,Estrangeira,Indiana,Não,Não,N/A,Não,Não,Não,Sim,Nenhuma,A,True,True,Nenhuma,Vegetariano,Música,Teatro,Cenografia
+ALU-0418,9.ºA,9,15.0,Estrangeira,Nepalesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0419,9.ºA,9,15.0,Estrangeira,Russa,Não (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0420,9.ºA,9,15.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0421,9.ºB,9,14.0,Estrangeira,Nepalesa,Não (AE),Sim,Não,Não,Não,Não,Sim,EMRC e EMRE,D,True,False,Nenhuma,Não come porco/vaca (cultural ou religioso),Música,Cenografia,Teatro
+ALU-0422,9.ºB,9,,Estrangeira,Angolana,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0423,9.ºB,9,,Portuguesa,Portuguesa,Sim,N/A,Sim,Não,Não,Não,Sim,Nenhuma,D,True,True,Hematológico,Nenhuma,N/A,N/A,N/A
+ALU-0424,9.ºB,9,17.0,Estrangeira,São-tomense,Sim,Sim,Não,Não,Sim,Não,Sim,EMRC,"C, D",True,True,Outra condição,Não come porco/vaca (cultural ou religioso),Teatro,Música,Cenografia
+ALU-0425,9.ºB,9,15.0,Portuguesa,Portuguesa,Não (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0426,9.ºB,9,,N/A,N/A,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0427,9.ºB,9,15.0,Estrangeira,Brasileira,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0428,9.ºB,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0429,9.ºB,9,14.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0430,9.ºB,9,14.0,Estrangeira,Nepalesa,Não,Sim,Não,N/A,N/A,Não,Sim,N/A,D,True,False,Nenhuma,Não come porco/vaca (cultural ou religioso),N/A,N/A,N/A
+ALU-0431,9.ºB,9,15.0,Estrangeira,Bangladechiana,Sim,Não,N/A,N/A,N/A,Não,Não,Nenhuma,"A, B, C, D",True,True,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0432,9.ºB,9,15.0,Estrangeira,Cabo-verdiana,Não (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0433,9.ºB,9,,Estrangeira,Guineense,Não (AE),N/A,N/A,N/A,N/A,Não,Sim,N/A,D,True,True,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0434,9.ºB,9,15.0,Portuguesa,Portuguesa,Não (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0435,9.ºB,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0436,9.ºB,9,14.0,Portuguesa,Portuguesa,Sim (AE),N/A,Sim,Não,Não,Não,Sim,N/A,D,True,True,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0437,9.ºB,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0438,9.ºB,9,15.0,Estrangeira,Nepalesa,Não,Não,Não,Não,Não,Sim,Sim,Nenhuma,D,True,False,Nenhuma,N/A,Música,Teatro,Cenografia
+ALU-0439,9.ºB,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0440,9.ºB,9,16.0,Portuguesa,Portuguesa,Não (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0441,9.ºB,9,16.0,Portuguesa,Portuguesa,Não (AE),Não,Sim,Sim,N/A,Sim,Sim,Nenhuma,D,True,True,Hiperatividade / défice de atenção,Nenhuma,N/A,N/A,N/A
+ALU-0442,9.ºB,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0443,9.ºB,9,17.0,Estrangeira,Indiana,Não,Não,Sim,Não,Não,Sim,Sim,Nenhuma,D,True,True,Nenhuma,Nenhuma,Música,Teatro,Cenografia
+ALU-0444,9.ºB,9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0445,9.ºB,9,16.0,Portuguesa,Portuguesa,Não (AE),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0446,PIEF 6.º,PIEF 6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0447,PIEF 6.º,PIEF 6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0448,PIEF 6.º,PIEF 6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0449,PIEF 6.º,PIEF 6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0450,PIEF 6.º,PIEF 6,16.0,Portuguesa,Portuguesa,Sim,N/A,Não,Não,Não,Não,Sim,N/A,D,True,True,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0451,PIEF 6.º,PIEF 6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0452,PIEF 6.º,PIEF 6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0453,PIEF 6.º,PIEF 6,16.0,Portuguesa,Portuguesa,Sim,N/A,Sim,Não,Não,Não,Sim,N/A,D,True,True,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0454,PIEF 6.º,PIEF 6,16.0,Portuguesa,Portuguesa,Sim,N/A,Sim,Sim,Não,Não,Não,N/A,"C, D",True,True,Outra condição,Nenhuma,N/A,N/A,N/A
+ALU-0455,PIEF 6.º,PIEF 6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0456,PIEF 6.º,PIEF 6,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0457,PIEF 6.º,PIEF 6,15.0,Portuguesa,Portuguesa,Sim,N/A,Sim,Não,Não,Não,Sim,N/A,D,True,True,Respiratório (asma/bronquite),Nenhuma,N/A,N/A,N/A
+ALU-0458,PIEF 9.º,PIEF 9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0459,PIEF 9.º,PIEF 9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0460,PIEF 9.º,PIEF 9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,N/A
+ALU-0461,PIEF 9.º,PIEF 9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0462,PIEF 9.º,PIEF 9,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A
+ALU-0463,PIEF 9.º,PIEF 9,17.0,Portuguesa,Portuguesa,Não,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,False,Nenhuma,Nenhuma,N/A,N/A,N/A

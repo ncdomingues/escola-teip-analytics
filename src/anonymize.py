@@ -7,6 +7,7 @@ Run: python src/anonymize.py
 """
 import datetime
 import re
+import unicodedata
 from pathlib import Path
 
 import openpyxl
@@ -18,7 +19,73 @@ OUT_CSV = PROJECT_ROOT / "data" / "processed" / "alunos_anonimizado.csv"
 ID_LOOKUP_CSV = PROJECT_ROOT / "data" / "raw" / "id_lookup.csv"  # git-ignored
 
 MIN_NATIONALITY_COUNT = 3  # nationalities with fewer students school-wide get grouped into "Outra"
+MIN_CATEGORY_COUNT = 3  # same rule for health/dietary categories - never publish a group of 1-2
 REFERENCE_DATE = datetime.date(2026, 7, 23)  # snapshot date, for age calculation
+
+
+def strip_accents(s):
+    return "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
+
+
+# Broad clinical categories only - never the verbatim diagnosis text. A student's exact
+# free-text health note is special-category data and must never reach the public dataset.
+HEALTH_CATEGORIES = [
+    ("Hiperatividade / défice de atenção", ["hiperativ", "defice de atencao", "deficie de atencao",
+                                             "phda", "ddi", "idha", "ritalina", "opositivo desafiador"]),
+    ("Respiratório (asma/bronquite)", ["asma", "bronquite", "respirat"]),
+    ("Alergias", ["alergia", "alergic"]),
+    ("Neurológico", ["epilepsia", "autis", "asperger", "neurofibromat", "paralisia cerebral", "convuls"]),
+    ("Cardíaco", ["coracao", "cardia", "sopro"]),
+    ("Endócrino / metabólico", ["diabetes", "tiroide"]),
+    ("Hematológico", ["anemia", "fator vii", "falciforme", "talassemia"]),
+    ("Genético / cromossómico", ["trissomia"]),
+    ("Saúde mental / ansiedade", ["ansiedade"]),
+    ("Dificuldades de aprendizagem", ["dislexia", "desortografia"]),
+]
+
+DIET_CATEGORIES_NONE = {"nao", "nenhuma", "nada a registar", "n"}
+
+
+def categorize_health(value):
+    if value is None:
+        return "N/A"
+    s = str(value).strip()
+    if s in ("", "N/A"):
+        return "N/A"
+    low = strip_accents(s).lower()
+    if low.startswith("nao") or low in ("nenhuma", "nada a registar"):
+        return "Nenhuma"
+    for category, keywords in HEALTH_CATEGORIES:
+        if any(k in low for k in keywords):
+            return category
+    return "Outra condição"
+
+
+def categorize_diet(value):
+    if value is None:
+        return "N/A"
+    s = str(value).strip()
+    if s in ("", "N/A"):
+        return "N/A"
+    low = strip_accents(s).lower()
+    if low in DIET_CATEGORIES_NONE:
+        return "Nenhuma"
+    if "vegetarian" in low:
+        return "Vegetariano"
+    if "porco" in low or "vaca" in low:
+        return "Não come porco/vaca (cultural ou religioso)"
+    if any(k in low for k in ("alergia", "marisco", "peixe", "camarao", "lactose",
+                               "chocolate", "amendoa", "laranja", "ananas", "grao", "morango")):
+        return "Alergia alimentar"
+    return "Outra restrição"
+
+
+def suppress_small_groups(series, min_count, other_label):
+    """Folds any category with fewer than min_count students into other_label.
+    'N/A' and 'Nenhuma' are never suppressed - they aren't identifying groups."""
+    counts = series.value_counts()
+    small = set(counts[counts < min_count].index) - {"N/A", "Nenhuma"}
+    return series.apply(lambda v: other_label if v in small else v)
 
 
 def load_all_sheets(path):
@@ -100,10 +167,23 @@ def anonymize(df):
 
     out["tem_condicao_saude"] = df["Problema Saúde"].apply(has_content_flag)
     out["tem_restricao_alimentar"] = df["Restr alimentar"].apply(has_content_flag)
+    out["categoria_saude"] = suppress_small_groups(
+        df["Problema Saúde"].apply(categorize_health), MIN_CATEGORY_COUNT, "Outra condição"
+    )
+    out["categoria_restricao_alimentar"] = suppress_small_groups(
+        df["Restr alimentar"].apply(categorize_diet), MIN_CATEGORY_COUNT, "Outra restrição"
+    )
 
-    out["oferta_escola_1"] = df["Oferta de Escola 1"]
-    out["oferta_escola_2"] = df["Oferta de Escola 2"]
-    out["oferta_escola_3"] = df["Oferta de Escola 3"]
+    def norm_activity(v):
+        # fixes a stray casing typo in the source ("musica" vs "Música") without
+        # inventing categories - anything else passes through untouched.
+        if isinstance(v, str) and strip_accents(v).lower() == "musica":
+            return "Música"
+        return v
+
+    out["oferta_escola_1"] = df["Oferta de Escola 1"].apply(norm_activity)
+    out["oferta_escola_2"] = df["Oferta de Escola 2"].apply(norm_activity)
+    out["oferta_escola_3"] = df["Oferta de Escola 3"].apply(norm_activity)
 
     return out
 

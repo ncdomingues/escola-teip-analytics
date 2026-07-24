@@ -75,6 +75,49 @@ ax.legend(frameon=False, loc="upper right")
 plt.tight_layout()
 savefig(fig, "chart_digital_access.png")
 
+# 5b. Fica na escola
+fica = an.fica_escola_breakdown(df)
+fig, ax = plt.subplots(figsize=(5, 4.2))
+colors = [style.SIM, style.NAO, style.INK_MUTED]
+ax.bar(fica.index, fica.values, color=colors[: len(fica)], width=0.5)
+ax.set_ylabel("Nº de alunos")
+for i, v in enumerate(fica.values):
+    ax.text(i, v + 3, str(v), ha="center", color=style.INK_SECONDARY, fontsize=11)
+plt.tight_layout()
+savefig(fig, "chart_fica_escola.png")
+
+# 5c. Oferta de escola - 1st choice
+oferta = an.oferta_escola_counts(df, by_ano=False)
+primeira = oferta[oferta["escolha"] == "1ª escolha"].sort_values("contagem", ascending=False)
+colors = style.CATEGORICAL[: len(primeira)]
+fig, ax = plt.subplots(figsize=(6.5, 4.2))
+ax.bar(primeira["atividade"], primeira["percentagem"], color=colors, width=0.55)
+ax.set_ylabel("% dos alunos")
+for i, (v, n) in enumerate(zip(primeira["percentagem"], primeira["contagem"])):
+    ax.text(i, v + 1.5, f"{v}%\n(n={n})", ha="center", color=style.INK_SECONDARY, fontsize=10)
+plt.tight_layout()
+savefig(fig, "chart_oferta_escola.png")
+
+# 5d. Condições de saúde
+saude = an.health_condition_breakdown(df).drop(index="Nenhuma", errors="ignore")
+fig, ax = plt.subplots(figsize=(7, 4))
+ax.barh(saude.index[::-1], saude["percentagem"].values[::-1], color=style.CATEGORICAL[3])
+ax.set_xlabel("% dos alunos")
+ax.grid(axis="x")
+ax.grid(axis="y", visible=False)
+plt.tight_layout()
+savefig(fig, "chart_saude.png")
+
+# 5e. Restrições alimentares
+dieta = an.dietary_restriction_breakdown(df).drop(index="Nenhuma", errors="ignore")
+fig, ax = plt.subplots(figsize=(7, 3.6))
+ax.barh(dieta.index[::-1], dieta["percentagem"].values[::-1], color=style.CATEGORICAL[4])
+ax.set_xlabel("% dos alunos")
+ax.grid(axis="x")
+ax.grid(axis="y", visible=False)
+plt.tight_layout()
+savefig(fig, "chart_dieta.png")
+
 # 5. Missing data
 missing = an.missing_data_rates(df)
 fig, ax = plt.subplots(figsize=(7.5, 5))

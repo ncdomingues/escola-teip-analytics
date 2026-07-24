@@ -34,9 +34,10 @@ diretos está neste repositório.** O pipeline em [`src/anonymize.py`](src/anony
 - Remove por completo documentos de identificação, NIF, NISS, Utente SNS e contactos de emergência.
 - Substitui o nome do aluno por um ID sequencial pseudónimo (`ALU-0001`, ...).
 - Converte data de nascimento em idade (sem o dia/mês exatos).
-- Converte descrições de saúde/alimentares em texto livre em simples indicadores booleanos
-  (nunca publica o diagnóstico).
-- Agrupa nacionalidades muito raras (< 3 alunos na escola) para evitar identificação indireta.
+- Converte descrições de saúde/alimentares em texto livre em categorias amplas (ex:
+  "Respiratório", "Alergias") — nunca o diagnóstico literal.
+- Agrupa nacionalidades e categorias de saúde/alimentação muito raras (< 3 alunos na escola)
+  para evitar identificação indireta.
 
 Only `data/processed/alunos_anonimizado.csv` (o resultado final, anonimizado) é versionado.
 O ficheiro real (`data/raw/`) e a tabela de correspondência ID↔nome nunca saem da máquina local
@@ -56,13 +57,20 @@ O ficheiro real (`data/raw/`) e a tabela de correspondência ID↔nome nunca sae
 
 ## Principais resultados
 
-- **463 alunos**, 23 turmas, 5º ao 9º ano + turmas PIEF.
+- **463 alunos**, 23 turmas, 5º ao 9º ano + turmas PIEF. **65% ficam na escola** para
+  atividades de tempos livres — vários campos (ASE, RTP, PEI, PC/Internet, oferta de
+  escola, autorização de saída) só existem para este grupo, e todas as taxas abaixo
+  já têm isso em conta.
 - **~1 em cada 3** alunos com nacionalidade registada é de origem estrangeira (mais de 10
   nacionalidades representadas) — índice de diversidade de Simpson: **0.55**.
-- A taxa de **Ação Social Escolar (ASE)** varia bastante por ano de escolaridade e é
-  claramente mais baixa entre alunos estrangeiros.
-- O acesso a **internet** em casa é consideravelmente mais comum do que o acesso a
-  **computador** próprio.
+- **58% dos alunos que ficam na escola têm ASE** (Ação Social Escolar) — quase o dobro
+  entre portugueses (68%) face a estrangeiros (39%).
+- O acesso a **internet** em casa (89%) é consideravelmente mais comum do que o acesso a
+  **computador** próprio (44%).
+- **Teatro** é a atividade de enriquecimento mais escolhida em 1ª opção.
+- Entre os alunos com estado conhecido, **~19% têm alguma condição de saúde** referida
+  (sobretudo respiratória) e **~9% alguma restrição alimentar** (sobretudo por motivo
+  cultural/religioso — não consumo de porco/vaca).
 - Vários campos (nacionalidade, data de nascimento) têm lacunas de preenchimento
   relevantes — uma oportunidade concreta de melhoria de processo no Inovar.
 
@@ -70,6 +78,11 @@ O ficheiro real (`data/raw/`) e a tabela de correspondência ID↔nome nunca sae
   <img src="assets/chart_nationality_ratio.png" width="32%">
   <img src="assets/chart_nationalities.png" width="32%">
   <img src="assets/chart_ase_by_grade.png" width="32%">
+</p>
+<p align="center">
+  <img src="assets/chart_oferta_escola.png" width="32%">
+  <img src="assets/chart_saude.png" width="32%">
+  <img src="assets/chart_dieta.png" width="32%">
 </p>
 
 ## Como correr

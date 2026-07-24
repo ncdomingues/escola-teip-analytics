@@ -152,6 +152,22 @@ for i, (num, label) in enumerate(tiles):
               label, 14, WHITE, align=PP_ALIGN.CENTER)
 footer(s, "Turmas do 5º ao 9º ano e turmas PIEF 6º/9º")
 
+# ---------- 3b. Fica na escola ----------
+s = add_slide(WHITE)
+add_text(s, Inches(0.7), Inches(0.55), Inches(11.9), Inches(0.9),
+          "Fica na escola (atividades de tempos livres)", 28, TEAL, bold=True)
+add_picture_contain(s, ASSETS / "chart_fica_escola.png",
+                    Inches(0.7), Inches(1.6), Inches(6.3), Inches(5.2))
+add_text(s, Inches(7.4), Inches(2.1), Inches(5.2), Inches(4.8),
+          "65% dos alunos ficam na escola para atividades de enriquecimento.\n\n"
+          "Confirmámos que campos como ASE, RTP, PEI, acesso a PC/internet, oferta de "
+          "escola e autorização de saída só são preenchidos para este grupo — em "
+          "média, 90% desses campos ficam em branco para quem não fica.\n\n"
+          "Por isso, todas as análises seguintes sobre estes temas são calculadas "
+          "apenas sobre os alunos que ficam, para não subestimar as taxas reais.",
+          15, INK, line_spacing=1.25)
+footer(s, "301 de 463 alunos ficam na escola; 97 não ficam; 65 sem resposta")
+
 # ---------- 4. Nacionalidade PT vs Estrangeira ----------
 s = add_slide(WHITE)
 add_text(s, Inches(0.7), Inches(0.55), Inches(11.9), Inches(0.9),
@@ -183,14 +199,19 @@ add_text(s, Inches(0.7), Inches(0.55), Inches(11.9), Inches(0.9),
           "Apoio socioeconómico (ASE), por ano de escolaridade", 28, TEAL, bold=True)
 add_picture_contain(s, ASSETS / "chart_ase_by_grade.png",
                     Inches(0.7), Inches(1.6), Inches(7.6), Inches(5.2))
-add_text(s, Inches(8.6), Inches(2.1), Inches(4.1), Inches(4.5),
+add_text(s, Inches(8.6), Inches(2.1), Inches(4.1), Inches(0.9),
+          "58%", 40, TERRACOTTA, bold=True)
+add_text(s, Inches(8.6), Inches(2.85), Inches(4.1), Inches(0.9),
+          "dos alunos que ficam na escola (175 de 301) têm ASE.",
+          14, INK, line_spacing=1.2)
+add_text(s, Inches(8.6), Inches(3.9), Inches(4.1), Inches(2.7),
           "A Ação Social Escolar (ASE) é o principal indicador de vulnerabilidade "
-          "socioeconómica disponível nestes dados.\n\n"
-          "A taxa varia significativamente entre anos, e é claramente mais baixa entre "
-          "alunos estrangeiros — um sinal a investigar: pode refletir menor candidatura "
-          "ao ASE, não necessariamente menor necessidade.",
-          15, INK, line_spacing=1.25)
-footer(s, "ASE = Ação Social Escolar")
+          "socioeconómica disponível nestes dados — central à missão TEIP.\n\n"
+          "A taxa é claramente mais baixa entre alunos estrangeiros (39% vs. 68% "
+          "entre os portugueses) — um sinal a investigar: pode refletir menor "
+          "candidatura ao ASE, não necessariamente menor necessidade.",
+          14, INK, line_spacing=1.2)
+footer(s, "ASE = Ação Social Escolar; calculado sobre alunos que ficam na escola")
 
 # ---------- 7. Literacia digital ----------
 s = add_slide(WHITE)
@@ -206,6 +227,43 @@ add_text(s, Inches(8.6), Inches(2.1), Inches(4.1), Inches(4.5),
           "acesso à internet mais comum nestes casos.",
           15, INK, line_spacing=1.25)
 footer(s, "Tem PC / Tem Internet — autodeclarado pelo encarregado de educação")
+
+# ---------- 7b. Oferta de escola ----------
+s = add_slide(WHITE)
+add_text(s, Inches(0.7), Inches(0.55), Inches(11.9), Inches(0.9),
+          "Oferta de escola: 1ª escolha de atividade", 28, TEAL, bold=True)
+add_picture_contain(s, ASSETS / "chart_oferta_escola.png",
+                    Inches(0.7), Inches(1.6), Inches(7.6), Inches(5.2))
+add_text(s, Inches(8.6), Inches(2.1), Inches(4.1), Inches(4.5),
+          "Teatro é a atividade mais escolhida em 1ª opção, seguida de Música e "
+          "Cenografia.\n\n"
+          "Nas 2ª e 3ª escolhas a ordem muda (Cenografia passa a liderar) — indício "
+          "de que os alunos distribuem as suas 3 escolhas pelas atividades "
+          "disponíveis, em vez de repetir a mesma preferência.",
+          15, INK, line_spacing=1.25)
+footer(s, "Calculado sobre alunos que ficam na escola (n=301)")
+
+# ---------- 7c. Saúde e alimentação ----------
+s = add_slide(WHITE)
+add_text(s, Inches(0.7), Inches(0.55), Inches(11.9), Inches(0.9),
+          "Condições de saúde e restrições alimentares", 26, TEAL, bold=True)
+add_picture_contain(s, ASSETS / "chart_saude.png",
+                    Inches(0.5), Inches(1.5), Inches(6.3), Inches(2.7))
+add_picture_contain(s, ASSETS / "chart_dieta.png",
+                    Inches(0.5), Inches(4.3), Inches(6.3), Inches(2.6))
+add_text(s, Inches(7.1), Inches(1.7), Inches(5.5), Inches(1),
+          "81% sem condição de saúde referida", 18, TERRACOTTA, bold=True)
+add_text(s, Inches(7.1), Inches(2.5), Inches(5.5), Inches(1.6),
+          "Entre os restantes, predominam problemas respiratórios (asma/bronquite) "
+          "e défice de atenção/hiperatividade.",
+          14, INK, line_spacing=1.2)
+add_text(s, Inches(7.1), Inches(4.3), Inches(5.5), Inches(1),
+          "91% sem restrição alimentar referida", 18, TERRACOTTA, bold=True)
+add_text(s, Inches(7.1), Inches(5.1), Inches(5.5), Inches(1.6),
+          "Entre os restantes, destaca-se a não-ingestão de porco/vaca (motivo "
+          "cultural ou religioso) — reflexo direto da diversidade da escola.",
+          14, INK, line_spacing=1.2)
+footer(s, "Categorias amplas, nunca o diagnóstico literal — ver metodologia de anonimização")
 
 # ---------- 8. Qualidade dos dados ----------
 s = add_slide(WHITE)
@@ -228,8 +286,10 @@ add_text(s, Inches(0.7), Inches(0.55), Inches(11.9), Inches(0.9),
           "Conclusões e recomendações", 32, WHITE, bold=True)
 bullets = [
     "A escola serve uma população claramente diversa — mais de 10 nacionalidades, ~34% de alunos estrangeiros.",
-    "A taxa de ASE mais baixa entre alunos estrangeiros merece investigação: pode indicar uma barreira de acesso/candidatura, não de necessidade real.",
+    "58% dos alunos que ficam na escola têm ASE — e a taxa é quase o dobro entre portugueses (68%) face a estrangeiros (39%): merece investigação se é barreira de acesso, não de necessidade real.",
     "O acesso a computador é o principal fator limitante da literacia digital — mais do que o acesso a internet.",
+    "Teatro lidera as primeiras escolhas de atividade; a distribuição muda nas escolhas seguintes.",
+    "~19% dos alunos com estado de saúde conhecido têm alguma condição referida, sobretudo respiratória; ~9% têm restrição alimentar, sobretudo por motivo cultural/religioso (porco/vaca).",
     "Melhorar a validação de dados no Inovar (nacionalidade, data de nascimento) tornaria análises futuras mais fiáveis.",
 ]
 box = s.shapes.add_textbox(Inches(0.9), Inches(1.9), Inches(11.5), Inches(4.8))
@@ -237,11 +297,11 @@ tf = box.text_frame
 tf.word_wrap = True
 for i, b in enumerate(bullets):
     p = tf.paragraphs[0] if i == 0 else tf.add_paragraph()
-    p.space_after = Pt(22)
+    p.space_after = Pt(16)
     p.line_spacing = 1.15
     run = p.add_run()
     run.text = "•  " + b
-    run.font.size = Pt(19)
+    run.font.size = Pt(16)
     run.font.name = BODY_FONT
     run.font.color.rgb = WHITE
 
